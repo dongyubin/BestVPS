@@ -6,6 +6,32 @@ sidebar_position: 1
 
 本文旨在推荐一些博主用过的靠谱、稳定、性价比高的 VPS ，区别于其它一些商业广告性质的推荐站，这里没有看似专业的测评数据和胡乱吹捧的营销文案，只有真实体验踩坑后的总结。
 
+## 懒人版
+
+### 稳定免备案建站 VPS 推荐
+
+1. 中国大陆优化线路 VPS 商家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](../guowai-vps/dmit.md)）
+2. 跨境电商外贸建站 VPS 商家：[Vultr](https://www.vultr.com/?ref=8888141)、[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](typora://app/guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）
+
+### 科学上网搭梯子 VPS 推荐
+
+1. 高速稳定线路 VPS 商家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](../guowai-vps/dmit.md)）
+2. 优质常规线路 VPS 商家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](typora://app/guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）、[BuyVM](https://my.frantech.ca/aff.php?aff=7431)（[BuyVM 最新优惠 点此查看](../guowai-vps/buyvm.md)）
+
+### 大硬盘BT/PT下载 VPS 推荐
+
+[BuyVM](https://my.frantech.ca/aff.php?aff=7431)（[BuyVM 最新优惠 点此查看](../guowai-vps/buyvm.md)）、[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](typora://app/guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）
+
+### 免费体验 VPS 推荐
+
+> **TIPS:** 点击下方注册链接前建议先清空浏览器缓存和 Cookie 或者右键点击在隐身窗口中打开，否则很可能得不到赠金。因为在其它营销类网站点了过时的注册链接和重复注册会导致得不到赠金，一定要是新注册才有。
+
+[Vultr](https://www.vultr.com/?ref=8888141) **新用户**注册后使用信用卡或 [PayPal](https://www.paypal.com/) 充值 10 美元后**最高免费送 100 美元**。
+
+- [Vultr](https://www.vultr.com/?ref=8888141) 白嫖方案一：【[Vultr 送 10 美元 注册链接](https://www.vultr.com/?ref=8888141)】 (赠金长期有效) - 标准 VPS 最低配置 5 美元/月，可白嫖两个月。用作魔法科学爱国上网，电信推荐用美国洛杉矶，联通推荐用日本，移动推荐用新加坡。此外美国部分冷门地区可开 IPv6 Only VPS ，最低 2.5 美元/月，如果你会配置 Cloudflare CDN 和 WARP ，且对网速和延迟没有极致要求，那么最多可以白嫖四个月，如果只是偶尔使用甚至可以白嫖更长时间。
+- [Vultr](https://www.vultr.com/?ref=8888141) 白嫖方案二：【[Vultr 送 100 美元 注册链接](https://www.vultr.com/?ref=8944893-8H)】 (赠金有效期 14 天) - 开高配置 VPS 跑一些高强度计算业务(比如编译)，或者开多台 VPS 跑一些下载服务，总之 14 天时间想怎么折腾就怎么折腾。
+- [Vultr](https://www.vultr.com/?ref=8888141) 白嫖方案三：前两个方案二选一[注册](https://www.vultr.com/?ref=8888141)成功后，在绑定信用卡并开通 2FA 身份验证的情况下可在【[Free Tier Program](https://my.vultr.com/settings/#settingsfreetier)】页面额外申请一个免费 VPS (1vCPU / 512MB RAM / 10GB SSD)，有效期为 1 年。申请需要审核，建议在正常使用一两个月后再申请，新号很难通过。
+
 ## 建站
 
 - 想体验一下建站，直接选择`大陆境外的服务器`（不需要备案）
@@ -19,7 +45,7 @@ sidebar_position: 1
     - 网络延时要求高就选择`亚太地区`（价格贵一些）
     - 延时要求不高的就建议选择`美国地区`（一般首选美西，洛杉矶、圣何塞，价格便宜一些）
     - 国外VPS线路优先度：`CN2 GIA>CN2 GT>163直连`（CN2 GIA只有中美之间才有，其他地区最好的就是普通的CN2线路）
-    - 商业站点推荐厂家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）、[Contabo](https://contabo.com/en/)、[iON](https://ion.krypt.asia/)、[Vultr](https://www.vultr.com/?ref=8888141)、[Linode](https://www.linode.com/)
+    - 商业站点推荐厂家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](../guowai-vps/dmit.md)）、[Contabo](https://contabo.com/en/)、[iON](https://ion.krypt.asia/)、[Vultr](https://www.vultr.com/?ref=8888141)、[Linode](https://www.linode.com/)
     - 个人站点推荐厂家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](typora://app/guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）
 
 > BGP线路是指机房接入了电信、联通、移动等各大网络运营商，通过BGP协议实现互联，如果用户是电信网络环境，就连电信线路，如果用户是联通网络环境，就连联通线路，以此来降低延迟提高速度。
