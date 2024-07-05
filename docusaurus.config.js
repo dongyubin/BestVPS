@@ -65,6 +65,12 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/vps-social-card.png',
+      metadata: [
+        {
+          name: 'google-site-verification',
+          content: 'r3PADZr3-uDSLp-RCbOG6fyR7HHK-U5Iob2OYLbnAOA',
+        },
+      ],
       navbar: {
         title: '文武VPS测评',
         logo: {
@@ -135,7 +141,17 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+
     }),
+
+  scripts: [
+    {
+      src: 'https://font.wangdu.site/script.js',
+      async: false,
+      defer: true,
+      'data-website-id': '973537a7-1193-4e77-855e-326b4b79dd1e',
+    },
+  ],
 };
 
 export default config;
