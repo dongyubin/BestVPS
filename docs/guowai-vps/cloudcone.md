@@ -30,7 +30,7 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 ## CloudCone 7周年促销活动套餐
 
-![loudCone 7周年促销活动套餐](https://b2.wwkejishe.top/WP-CDN-02/2024/202407081656237.webp)
+![loudCone 7周年促销活动套餐](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202407081656237.webp)
 
 ### 美国便宜VPS
 
