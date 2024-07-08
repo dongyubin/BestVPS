@@ -116,3 +116,9 @@ sidebar_position: 9
 - 日本东京-三网优化（测试ip：103.20.199.1，去程cn2+9929+cmi 回程联通电信软银 移动CMI）
 - 美国LAX BGP（测试地址：[http://lg.lax.bgp.akile.io](http://lg.lax.bgp.akile.io/)）
 - 美国LAX 三网优化（测试地址：[http://lg.lax2.bgp.akile.io](http://lg.lax2.bgp.akile.io/)）
+
+## AkileCloud 解锁测试
+
+* 仅供参考，不代表真实情况
+
+![AkileCloud解锁测试](https://b2.wwkejishe.top/WP-CDN-02/2024/202407081650503.webp)
