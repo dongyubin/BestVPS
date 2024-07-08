@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 1
 ---
 
 # Just My Socks：搬瓦工机场官方服务，多条线路，IP不怕被墙
@@ -18,9 +18,9 @@ Just My Socks最大的优势是：`保证IP不被墙，如果IP被墙，会自�
 
 ## Just My Socks介绍
 
-- **Just My Socks靠谱吗？**不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近2年了（2018年10月推出的）。
-- **Just My Socks怎么样？**线路优质，包括最快的搬瓦工CN2 GIA线路。
-- **哪些人适合用Just My Socks？**不想自己搭建ss/ssr或v2ray翻墙帐号，但又对速度有较高的要求，Just My Socks可以非常方便的达到这些需求。
+- **Just My Socks靠谱吗**？不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近2年了（2018年10月推出的）。
+- **Just My Socks怎么样**？线路优质，包括最快的搬瓦工CN2 GIA线路。
+- **哪些人适合用Just My Socks**？不想自己搭建ss/ssr或v2ray翻墙帐号，但又对速度有较高的要求，Just My Socks可以非常方便的达到这些需求。
 - **Just My Socks缺点**：无法看Netflix。
 - **支持的协议：TCP或UDP？** Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使用YouTube等大多数流媒体服务。从Just My Socks 500开始的所有套餐均支持TCP和UDP协议（请参阅下面的注释）。语音协议（如WhatsApp和某些VOIP实现）可能需要UDP协议。如果您的套餐是Just My Socks 100，并且您想使用UDP协议，那么您将需要升级到Just My Socks 500套餐。
 
@@ -30,14 +30,17 @@ Just My Socks 官网支持 `支付宝`、Paypal 及 银联卡付款，7天内不
 
 ## Just My Socks 官网
 
-搬瓦工机场 Just My Socks **官网地址**是：[https://justmysocks.net/](https://justmysocks.net/members/aff.php?aff=31458) （被墙）
+搬瓦工机场 Just My Socks **官网地址**是：[https://justmysocks.net/](https://justmysocks.net/members/aff.php?aff=31458) （国内无法访问）
 
 由于某些特殊原因，会不定时的更换官网的镜像地址，方便不能访问的网友访问 Just My Socks 官网，以下是所有的官网镜像列表，如以上官网地址不能访问，可用下面的官网备用网址访问。
 
-- 官网备用1：[https://justmysocks1.net/](https://justmysocks1.net/members/aff.php?aff=31458)（被墙）
-- 官网备用2：[https://justmysocks2.net/](https://justmysocks2.net/members/aff.php?aff=31458)
-- 官网备用3：[https://justmysocks3.net/](https://justmysocks3.net/members/aff.php?aff=31458)
-- 官网备用4：[https://justmysocks5.net/](https://justmysocks5.net/members/aff.php?aff=31458)
+- 官网备用1：[https://justmysocks1.net/](https://justmysocks1.net/members/aff.php?aff=31458)（国内无法访问）
+- 官网备用2：[https://justmysocks2.net/](https://justmysocks2.net/members/aff.php?aff=31458)（国内无法访问）
+- 官网备用3：[https://justmysocks6.net/](https://justmysocks6.net/members/aff.php?aff=31458)（国内无法访问）
+- 官网备用4：[https://justmysocks5.net/](https://justmysocks5.net/members/aff.php?aff=31458)（国内无法访问）
+- 官网备用5：[https://justmysocks6.net/](https://justmysocks6.net/members/aff.php?aff=31458)
+
+其中官网和部分镜像站在国内是无法直接访问的，**6个网站的数据全部互通**，所以我们只需要直接访问镜像站5就行了，以后本站的所有搬瓦工机场官网都以镜像站5表示（最稳定），方便大家在国内直接访问。
 
 ### 官网界面预览
 
@@ -51,29 +54,29 @@ Just My Socks Promo code 优惠码：`JMS9272283`
 
 ## Just My Socks 懒人版
 
-1. [点击购买 洛杉矶CN2 GIA（高性价比👍）](https://justmysocks3.net/members/aff.php?aff=31458&pid=2&language=chinese)（享受 5.2% 永久优惠，优惠码：`JMS9272283`）
-2. [Just My Socks](https://justmysocks3.net/members/aff.php?aff=31458&language=chinese) 自家的专用客户端：[Jamjams](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS）
+1. [点击购买 洛杉矶CN2 GIA（高性价比👍）](https://justmysocks6.net/members/aff.php?aff=31458&pid=2&language=chinese)（享受 5.2% 永久优惠，优惠码：`JMS9272283`）
+2. [Just My Socks](https://justmysocks6.net/members/aff.php?aff=31458&language=chinese) 自家的专用客户端：[Jamjams](https://justmysocks6.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS）
 
 ## Just My Socks 节点套餐列表
 
 |                   数据中心 | 套餐名                  | 每月流量 | 月付价格 | 设备限制 | 购买链接                                                     |
 | -------------------------: | ----------------------- | -------- | -------- | -------- | ------------------------------------------------------------ |
-|                       东京 | Tokyo 100               | 100 GB   | $29.99   | 3        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=5&language=chinese) |
-|                       东京 | Tokyo 500               | 500 GB   | $135.99  | 5        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=6&language=chinese) |
-|                       东京 | Tokyo 1000              | 1 TB     | $239.00  | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=22&language=chinese) |
-|                伦敦联通VIP | London 500              | 500 GB   | $6.80    | 5        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=12&language=chinese) |
-|                伦敦联通VIP | London 1000             | 1 TB     | $11.29   | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=14&language=chinese) |
-| 洛杉矶CN2 GIA（高性价比👍） | LA 500                  | 500 GB   | $5.88    | 5        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=2&language=chinese) |
-|              洛杉矶CN2 GIA | LA 1000                 | 1 TB     | $9.88    | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=3&language=chinese) |
-|              洛杉矶CN2 GIA | LA 5000                 | 5 TB     | $48.99   | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=4&language=chinese) |
-|              洛杉矶CN2 GIA | LA 10000                | 10 TB    | $93.99   | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=23&language=chinese) |
-|                       香港 | HK CMI+NTT Plan 500     | 500 GB   | $8.99    | 5        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=13&language=chinese) |
-|                       香港 | HK CMI+NTT Plan 1000    | 1 TB     | $14.90   | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=15&language=chinese) |
-|                       香港 | Hong Kong 100           | 100 GB   | $34.99   | 3        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=7&language=chinese) |
-|                       香港 | Hong Kong 500           | 500 GB   | $149.99  | 5        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=8&language=chinese) |
-|                       香港 | Hong Kong 1000          | 1 TB     | $279.99  | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=11&language=chinese) |
-|                       香港 | HK 300 V2 EARLY ACCESS  | 300 GB   | $21.00   | 3        | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=18&language=chinese) |
-|                       香港 | HK 1000 V2 EARLY ACCESS | 1 TB     | $59.00   | 无限制   | [点击购买](https://justmysocks3.net/members/aff.php?aff=31458&pid=21&language=chinese) |
+|                       东京 | Tokyo 100               | 100 GB   | $29.99   | 3        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=5&language=chinese) |
+|                       东京 | Tokyo 500               | 500 GB   | $135.99  | 5        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=6&language=chinese) |
+|                       东京 | Tokyo 1000              | 1 TB     | $239.00  | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=22&language=chinese) |
+|                伦敦联通VIP | London 500              | 500 GB   | $6.80    | 5        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=12&language=chinese) |
+|                伦敦联通VIP | London 1000             | 1 TB     | $11.29   | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=14&language=chinese) |
+| 洛杉矶CN2 GIA（高性价比👍） | LA 500                  | 500 GB   | $5.88    | 5        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=2&language=chinese) |
+|              洛杉矶CN2 GIA | LA 1000                 | 1 TB     | $9.88    | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=3&language=chinese) |
+|              洛杉矶CN2 GIA | LA 5000                 | 5 TB     | $48.99   | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=4&language=chinese) |
+|              洛杉矶CN2 GIA | LA 10000                | 10 TB    | $93.99   | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=23&language=chinese) |
+|                       香港 | HK CMI+NTT Plan 500     | 500 GB   | $8.99    | 5        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=13&language=chinese) |
+|                       香港 | HK CMI+NTT Plan 1000    | 1 TB     | $14.90   | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=15&language=chinese) |
+|                       香港 | Hong Kong 100           | 100 GB   | $34.99   | 3        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=7&language=chinese) |
+|                       香港 | Hong Kong 500           | 500 GB   | $149.99  | 5        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=8&language=chinese) |
+|                       香港 | Hong Kong 1000          | 1 TB     | $279.99  | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=11&language=chinese) |
+|                       香港 | HK 300 V2 EARLY ACCESS  | 300 GB   | $21.00   | 3        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=18&language=chinese) |
+|                       香港 | HK 1000 V2 EARLY ACCESS | 1 TB     | $59.00   | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=21&language=chinese) |
 
 ### 速度评测
 
@@ -158,7 +161,7 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 
 如果你已经按照上面的步骤完成付款购买，即可以登录后台查看节点配置信息。
 
-打开 [Just My Socks 官网](https://justmysocks3.net/members/aff.php?aff=31458)，在菜单中选择 `Services` > `My Services`，就可以看到你购买的产品信息，列表中的 **Status** 显示 `Active` 的，即为可用节点，如下图所示。
+打开 [Just My Socks 官网](https://justmysocks6.net/members/aff.php?aff=31458)，在菜单中选择 `Services` > `My Services`，就可以看到你购买的产品信息，列表中的 **Status** 显示 `Active` 的，即为可用节点，如下图所示。
 
 ![justmysocks可用节点列表](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406271021402.webp)
 
@@ -272,7 +275,7 @@ Just My Socks 支持使用订阅方式来自动化添加节点配置信息，只
 
 ## 客户端
 
-- [Just My Socks](https://justmysocks3.net/members/aff.php?aff=31458&language=chinese) 新推出了他们自己的专用客户端：[Jamjams](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS），登录后可以在[这个页面](https://justmysocks3.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)进行下载。因为网络协议都是通用的，你依然可以继续使用其它的通用代理工具或者 Open­Wrt 软路由。
+- [Just My Socks](https://justmysocks6.net/members/aff.php?aff=31458&language=chinese) 新推出了他们自己的专用客户端：[Jamjams](https://justmysocks6.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS），登录后可以在[这个页面](https://justmysocks6.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)进行下载。因为网络协议都是通用的，你依然可以继续使用其它的通用代理工具或者 Open­Wrt 软路由。
 
 - [Shadowsock 客户端](https://help.wwkejishe.top/wang-shang-xue-ke#windowsmacosandroidios-ke-hu-duan)
 - [ShadowsocksR 客户端](https://help.wwkejishe.top/wang-shang-xue-ke#windowsmacosandroidios-ke-hu-duan)
