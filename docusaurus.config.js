@@ -111,15 +111,40 @@ const config = {
                 label: '文武科技柜',
                 href: 'https://www.wangdu.site',
               },
-              // {
-              //   label: 'Discord',
-              //   href: 'https://discordapp.com/invite/docusaurus',
-              // },
+              {
+                label: '免费共享Shadowrocket（小火箭）账号',
+                href: 'https://github.com/dongyubin/Free-AppleId-Serve',
+              },
+              {
+                label: 'IPTV直播源+播放工具',
+                href: 'https://www.wangdu.site/software/av-read/339.html'
+              },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/wwkjs666',
               },
             ],
+          },
+          {
+            title: 'Category',
+            items: [
+              {
+                label: '选购VPS指南',
+                to: '/docs/category/选购指南',
+              },
+              {
+                label: '国内VPS',
+                to: '/docs/category/国内vps',
+              },
+              {
+                label: '国外VPS',
+                to: '/docs/category/国内vps',
+              },
+              {
+                label: '稳定机场',
+                to: '/docs/category/稳定机场',
+              }
+            ]
           },
           {
             title: 'More',
