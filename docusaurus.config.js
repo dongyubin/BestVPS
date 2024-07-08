@@ -138,7 +138,7 @@ const config = {
               },
               {
                 label: '国外VPS',
-                to: '/docs/category/国内vps',
+                to: '/docs/category/国外vps',
               },
               {
                 label: '稳定机场',
