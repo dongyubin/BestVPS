@@ -2,7 +2,7 @@
 slug: fuclaude
 title: Fuclaude最全食用指南（Mac、Nas、Windows、serv00、宝塔面板）
 authors: [dongyubin]
-tags: [Fuclaude, VPS, 主机, 服务器, 宝塔面板]
+tags: [Fuclaude, VPS, 主机, 服务器, 宝塔面板, Claude]
 ---
 
 [Fuclaude](https://github.com/wozulong/fuclaude) 是 [Linux.do](https://linux.do/t/topic/131611) 版主创建的免富强使用Claude.ai小玩具。支持MacOS、Linux、Freebsd（Serv00）、Windows（因报毒，最新版已不支持）、Docker（镜像：`pengzhile/fuclaude`，[官网Docker加速镜像](https://www.wangdu.site/course/2109.html)）。
