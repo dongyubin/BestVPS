@@ -93,4 +93,8 @@ docker.hlyun.org/pengzhile/fuclaude:latest
 
 如果想自己使用使用本地搭建即可，想分享给其他人用就使用上面教程自行搭建
 
+- [博主自己搭建的Fuclaude](https://fuclaude.wangdu.site/login)
+- [Linux.do版主搭建的Fuclaude](https://demo.fuclaude.com/)
 - [https://claude.freeload.cc/login](https://claude.freeload.cc/login)
+- [https://claude.asia/login](https://claude.asia/login)
+- [公益分享Claude服务](https://share.claude.asia/)
