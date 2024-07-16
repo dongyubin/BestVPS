@@ -98,3 +98,4 @@ docker.hlyun.org/pengzhile/fuclaude:latest
 - [https://claude.freeload.cc/login](https://claude.freeload.cc/login)
 - [https://claude.asia/login](https://claude.asia/login)
 - [公益分享Claude服务](https://share.claude.asia/)
+- [https://share.syferie.tech/](https://share.syferie.tech/)：需要[Linux.do](https://www.wangdu.site/course/2097.html)大于1级账号才能使用
