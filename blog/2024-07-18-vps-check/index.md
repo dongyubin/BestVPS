@@ -1,6 +1,6 @@
 ---
 slug: vps-check
-title: VPS服务器解锁流媒体一键测试脚本（流媒体测试脚本）
+title: 2024年VPS服务器解锁流媒体一键测试脚本（流媒体测试脚本）
 authors: [dongyubin]
 tags: [VPS, 主机, 服务器]
 ---
