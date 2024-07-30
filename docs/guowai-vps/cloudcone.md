@@ -36,12 +36,14 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 硬盘均带 SSD 缓存存储
 
-|   CPU | 内存 |     硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
-| ----: | ---: | -------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
-| 2vCPU |   1G |  55G HDD | 2T/月 | 1Gbps | 1IPv4+3IPv6 | $15.25/年 | [点击购买](https://app.cloudcone.com/vps/252/create?token=bday24-vps-1&ref=11076) |
-| 2vCPU |   2G | 100G HDD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $26.22/年 | [点击购买](https://app.cloudcone.com/vps/253/create?token=bday24-vps-2&ref=11076) |
-| 2vCPU |   3G | 160G HDD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $37.33/年 | [点击购买](https://app.cloudcone.com/vps/254/create?token=bday24-vps-3&ref=11076) |
-| 4vCPU |   4G | 220G HDD | 5T/月 | 1Gbps | 1IPv4+3IPv6 | $48.25/年 | [点击购买](https://app.cloudcone.com/vps/255/create?token=bday24-vps-4&ref=11076) |
+|   CPU |  内存 |     硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
+| ----: | ----: | -------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
+| 1vCPU | 768MB |  5GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 |    $10/年 | [点击购买](https://app.cloudcone.com/vps/263/create?token=cc-turns-7-cs-2&ref=11076) |
+| 1vCPU |    1G |  7GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 |    $12/年 | [点击购买](https://app.cloudcone.com/vps/262/create?token=cc-turns-7-cs-1&ref=11076) |
+| 2vCPU |    1G |  55G HDD | 2T/月 | 1Gbps | 1IPv4+3IPv6 | $15.25/年 | [点击购买](https://app.cloudcone.com/vps/252/create?token=bday24-vps-1&ref=11076) |
+| 2vCPU |    2G | 100G HDD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $26.22/年 | [点击购买](https://app.cloudcone.com/vps/253/create?token=bday24-vps-2&ref=11076) |
+| 2vCPU |    3G | 160G HDD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $37.33/年 | [点击购买](https://app.cloudcone.com/vps/254/create?token=bday24-vps-3&ref=11076) |
+| 4vCPU |    4G | 220G HDD | 5T/月 | 1Gbps | 1IPv4+3IPv6 | $48.25/年 | [点击购买](https://app.cloudcone.com/vps/255/create?token=bday24-vps-4&ref=11076) |
 
 ### 美国SC2云服务器
 
