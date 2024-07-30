@@ -16,11 +16,11 @@ sidebar_position: 1
 ### 科学上网搭梯子 VPS 推荐
 
 1. 高速稳定线路 VPS 商家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](../guowai-vps/dmit.md)）
-2. 优质常规线路 VPS 商家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](../guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）、[BuyVM](https://my.frantech.ca/aff.php?aff=7431)（[BuyVM 最新优惠 点此查看](../guowai-vps/buyvm.md)）
+2. 优质常规线路 VPS 商家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](../guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）
 
 ### 大硬盘BT/PT下载 VPS 推荐
 
-[BuyVM](https://my.frantech.ca/aff.php?aff=7431)（[BuyVM 最新优惠 点此查看](../guowai-vps/buyvm.md)）、[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](../guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）
+[BuyVM](https://my.frantech.ca/aff.php?aff=7431)（[BuyVM 最新优惠 点此查看](../guowai-vps/buyvm.md)）
 
 ### 免费体验 VPS 推荐
 
@@ -44,7 +44,7 @@ sidebar_position: 1
     - 服务器稳定地区：香港>韩国>日本>美国
     - 网络延时要求高就选择`亚太地区`（价格贵一些）
     - 延时要求不高的就建议选择`美国地区`（一般首选美西，洛杉矶、圣何塞，价格便宜一些）
-    - 国外VPS线路优先度：`CN2 GIA>CN2 GT>163直连`（CN2 GIA只有中美之间才有，其他地区最好的就是普通的CN2线路）
+    - 国外VPS线路优先度：`CN2 GIA>CN2 GT>163直连`（CN2 GIA在中美比较便宜，对三网适配好，HK、JP、KR等地区也有，只不过价格便贵，其他地区最好的就是普通的CN2线路）
     - 商业站点推荐厂家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](../guowai-vps/dmit.md)）、[Contabo](https://contabo.com/en/)、[iON](https://ion.krypt.asia/)、[Vultr](https://www.vultr.com/?ref=8888141)、[Linode](https://www.linode.com/)
     - 个人站点推荐厂家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](../guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）
 
@@ -65,7 +65,10 @@ sidebar_position: 1
 
 美国的服务器带宽一般都能跑到2M每秒的速度，换算成带宽大概是20M带宽。
 
-- 线路优先度：CN2 GIA>CN2 GT>163直连、三网回程GIA > 三网回程9929 > 三网回程4837
+- 线路优先度：
+  - 电信用户：CN2 GIA > CN2 GT > 163直连
+  - 联通用户：CN2 GIA >= 三网回程9929 > 三网回程4837（实际体验中大带宽4837比一些9929更舒服）
+  - 移动用户：CN2 GIA >= cmi2 > cmi
 - 价格最贵的厂家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）
 - 价格最便宜的厂家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](../guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）、[VirMach](https://virmach.com/)（尽量选美西）
 - 性价比的厂家：[Spartan Host](https://spartanhost.org/)、[iON](https://ion.krypt.asia/)
