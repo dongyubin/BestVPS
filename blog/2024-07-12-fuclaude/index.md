@@ -31,15 +31,15 @@ tags: [Fuclaude, VPS, 主机, 服务器, 宝塔面板, Claude]
 
 1. 使用[SSH工具](https://www.wangdu.site/software/bianchengkaifa/1263.html)连接Linux系统，输入下面内容，回车（下面[Docker镜像已配置加速](https://www.wangdu.site/course/2109.html)）
 
-```
-docker run -d \
- --name Fuclaude \
- --restart=always \
- -p 14300:8181 \
-docker.hlyun.org/pengzhile/fuclaude:latest
-```
+   ```
+   docker run -d \
+   --name Fuclaude \
+   --restart=always \
+   -p 14300:8181 \
+   docker.hlyun.org/pengzhile/fuclaude:latest
+   ```
 
-![Fuclaude Docker搭建](https://b2.wwkejishe.top/WP-CDN-02/2024/202407121045676.webp)
+   ![Fuclaude Docker搭建](https://b2.wwkejishe.top/WP-CDN-02/2024/202407121045676.webp)
 
 2. 登录个人的[宝塔面板](https://www.wangdu.site/software/bianchengkaifa/1855.html)，`Docker - 容器`，容器名：`Fuclaude`，状态：`运行中`，表示Fuclaude已经部署好，下面就可以使用域名代理了。
 
