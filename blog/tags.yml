@@ -1,4 +1,59 @@
-vps:
+VPS:
   label: VPS
   permalink: /vps
   description: VPS相关文章
+
+主机:
+  label: 主机
+  permalink: /主机
+  description: 服务器托管和管理的相关教程与资源
+
+服务器:
+  label: 服务器
+  permalink: /服务器
+  description: 服务器配置、管理与优化的详细介绍
+
+WordPress:
+  label: WordPress
+  permalink: /wordpress
+  description: WordPress搭建与优化的技术文章
+
+Fuclaude:
+  label: Fuclaude
+  permalink: /fuclaude
+  description: Fuclaude相关内容
+
+宝塔面板:
+  label: 宝塔面板
+  permalink: /宝塔面板
+  description: 宝塔面板的安装、配置与使用教程
+
+serv00:
+  label: serv00
+  permalink: /serv00
+  description: serv00的安装、配置与使用教程
+
+Claude:
+  label: Claude
+  permalink: /claude
+  description: Claude相关内容
+
+Trojan:
+  label: Trojan
+  permalink: /trojan
+  description: Trojan相关技术与科学上网工具
+
+科学上网:
+  label: 科学上网
+  permalink: /科学上网
+  description: 科学上网技术与工具的使用教程
+
+搬瓦工:
+  label: 搬瓦工
+  permalink: /搬瓦工
+  description: 搬瓦工VPS的购买与使用指南
+
+注册:
+  label: 注册
+  permalink: /注册
+  description: 各类VPS或服务的注册流程及步骤

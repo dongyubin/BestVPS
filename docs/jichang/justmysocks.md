@@ -1,4 +1,5 @@
 ---
+title: Just My Socks：搬瓦工机场官方服务，多条线路，IP不怕被墙
 sidebar_position: 1
 description: Just My Socks（JMS）是搬瓦工推出的机场服务，专为那些想要稳定、快捷上网的用户设计。JMS提供多条线路，尤其是CN2 GIA线路，能够有效避免IP被墙，保证网络连接的稳定性和速度。用户只需两步即可完成配置：购买套餐后通过客户端导入服务器信息。
 ---

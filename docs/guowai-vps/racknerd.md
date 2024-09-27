@@ -1,8 +1,11 @@
 ---
 sidebar_position: 1
+title: RackNerd 高性价比便宜 VPS 最新优惠活动(2024年9月)
+description: RackNerd是一家促销活动比较多的美国商家，提供国外VPS、虚拟主机和独立服务器，一般主打价格优势，为用户提供便宜套餐，最低年付不到10美元。由于 RackNerd 促销比较杂，本文就专门为大家整理汇总了近期有效RackNerd优惠码以及优惠促销活动信息，方便大家选择。
+image: https://b2.wwkejishe.top/WP-CDN-02/2022/202211171048611.webp
 ---
 
-# RackNerd 高性价比便宜 VPS 最新优惠活动(2024年8月)
+# RackNerd 高性价比便宜 VPS 最新优惠活动(2024年9月)
 
 ## RackNerd简介
 

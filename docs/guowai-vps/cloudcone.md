@@ -1,5 +1,8 @@
 ---
+title: CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2024年9月)
 sidebar_position: 2
+description: CloudCone是一家提供VPS（虚拟专用服务器）服务的美国公司，成立于2017年，致力于为全球用户提供可扩展、灵活且具有性价比的云计算服务。CloudCone的VPS服务以其灵活的计费方式（按小时或按月付费）而闻名，同时还支持用户自定义服务器配置和资源。
+image: https://b2.wwkejishe.top/WP-CDN-02/2024/202406171710947.webp
 ---
 
 # CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2024年9月)
