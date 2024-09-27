@@ -6,7 +6,7 @@ sidebar_position: 1
 
 阿里云学生用户可以免费领取300元无门槛代金券，是无门槛的优惠券哦，在阿里云高校计划「云工开物」页面领取 [**https://university.aliyun.com/**](https://university.aliyun.com/mobile?clubTaskBiz=subTask..11402064..10212..&userCode=5jirorgx) 活动打开如下图：
 
-![阿里云学生300元优惠券领取方法](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406122146995.png)
+![阿里云学生300元优惠券领取方法](https://b2.wwkejishe.top/WP-CDN-02/2024/202406122146995.png)
 
 ## **领取条件**
 

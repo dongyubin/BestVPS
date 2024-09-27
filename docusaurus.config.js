@@ -50,6 +50,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           //   // Please change this to your repo.
           //   // Remove this to remove the "edit this page" links.
           //   editUrl:
@@ -115,10 +117,10 @@ const config = {
               },
               {
                 label: '免费共享Shadowrocket（小火箭）账号',
-                href: 'https://github.com/dongyubin/Free-AppleId-Serve',
+                href: 'https://help.wwkejishe.top/free-shadowrocket',
               },
               {
-                label: 'IPTV直播源+播放工具',
+                label: '港澳台直播源m3u+播放工具',
                 href: 'https://www.wangdu.site/software/av-read/339.html'
               },
               {

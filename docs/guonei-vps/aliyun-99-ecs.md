@@ -8,9 +8,9 @@ sidebar_position: 2
 
 最后逼着我换了其他家的服务器，今年不知道是竞争太激烈，还是良心发现；新老用户只需要 `99元` （原价：`~~1561~~`）就可以用上`2核2G`的ECS云服务器。
 
-![阿里云ECS99元一年活动](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202311082037765.webp)
+![阿里云ECS99元一年活动](https://b2.wwkejishe.top/WP-CDN-02/2023/202311082037765.webp)
 
-![阿里云ECS服务器配置](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2023/202311082039718.webp)
+![阿里云ECS服务器配置](https://b2.wwkejishe.top/WP-CDN-02/2023/202311082039718.webp)
 
 ## 活动地址
 

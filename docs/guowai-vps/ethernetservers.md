@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# EthernetServers优惠码和美国VPS主机最新优惠活动（2024年7月）
+# EthernetServers优惠码和美国VPS主机最新优惠活动（2024年8月）
 
 ## Ethernet Servers 简介
 
@@ -10,7 +10,7 @@ sidebar_position: 8
 
 这家公司目前已经在全世界各地建立了8个数据中心，它们分别位于美国洛杉矶和新泽西、加拿大博阿努瓦、悉尼、新加坡、伦敦、巴黎和德国林堡。
 
-![EthernetServers VPS 优惠](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2024/202406181729360.webp)
+![EthernetServers VPS 优惠](https://b2.wwkejishe.top/WP-CDN-02/2024/202406181729360.webp)
 
 ## Ethernet Servers 官方网址
 

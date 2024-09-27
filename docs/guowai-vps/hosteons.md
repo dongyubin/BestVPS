@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# HostEONS美国欧洲多机房VPS主机最新优惠活动（2024年7月）
+# HostEONS美国欧洲多机房VPS主机最新优惠活动（2024年8月）
 
 ## HostEONS 简介
 

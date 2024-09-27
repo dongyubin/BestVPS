@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# RackNerd 高性价比便宜 VPS 最新优惠活动(2024年)
+# RackNerd 高性价比便宜 VPS 最新优惠活动(2024年8月)
 
 ## RackNerd简介
 
 [RackNerd](https://www.wangdu.site/?s=racknerd) 是一家促销活动比较多的美国商家，提供国外[VPS](https://www.wangdu.site/tag/vps)、虚拟主机和独立服务器，一般主打价格优势，为用户提供便宜套餐，最低年付不到10美元。由于 RackNerd 促销比较杂，本文就专门为大家整理汇总了近期有效RackNerd优惠码以及优惠促销活动信息，方便大家选择。
 
-![RackNerd](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202211171048611.webp)
+![RackNerd](https://b2.wwkejishe.top/WP-CDN-02/2022/202211171048611.webp)
 
 付款方式：加密货币、信用卡、PayPal、**支付宝**等
 
@@ -150,7 +150,7 @@ RackNerd 有个长期优惠码是`15OFFDEDI`，这个优惠码适用于所有Rac
 
 后来都因为价格比较昂贵就没有再接触了，看到有人发黑色星期五了，本着『别人有，我也要有』的想法，果断下手了一台 RackNerd 的 VPS，中间还抽了个盲盒，减了 $0.64，真不错。最后人民币 68.52 拿下一台 VPS，就当是入门交的学费了。
 
-![RackNerd黑五优惠](https://usacdn.wangdu.site/file/blog-cdn/WP-CDN-02/2022/202211171050571.png)
+![RackNerd黑五优惠](https://b2.wwkejishe.top/WP-CDN-02/2022/202211171050571.png)
 
 ### 2023年7月
 

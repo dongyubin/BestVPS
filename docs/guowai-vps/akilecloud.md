@@ -2,17 +2,23 @@
 sidebar_position: 9
 ---
 
-# AkileCloud台湾/香港/韩国/日本/美国高速稳定 VPS 最新优惠活动(2024年7月)
+# AkileCloud台湾/香港/韩国/日本/美国高速稳定 VPS 最新优惠活动(2024年8月)
 
 ## AkileCloud 介绍
 [AkileCloud](https://akile.io/register?aff_code=3b1f9017-949d-4927-b228-797228e77f90) 是全球大带宽云服务器解决方案的提供商，特别在提供1Gbps大带宽VPS服务器方面表现出色。公司已在全球10个国家和地区部署机房，包括CN2 GIA、联通9929、移动CMI和软银等优化链路，保证世界各地的高速和稳定连接。
 
 [AkileCloud](https://akile.io/register?aff_code=3b1f9017-949d-4927-b228-797228e77f90) 主营海外大带宽流媒体解锁VPS，提供包括台湾、香港、韩国、日本和美国等地区原生IP VPS或者可以解锁当地流媒体服务（Netflix、HBO Max、Disney+等）的线路服务。
 
+[AkileCloud](https://akile.io/register?aff_code=3b1f9017-949d-4927-b228-797228e77f90) 是一家主营海外大带宽流媒体解锁VPS服务器的商家。
+
 ![AkileCloud 大带宽流媒体解锁VPS](https://b2.wwkejishe.top/WP-CDN-02/2024/202407081628112.webp)
 
 ## AkileCloud 官网地址
 [www.akile.io](https://akile.io/register?aff_code=3b1f9017-949d-4927-b228-797228e77f90)
+
+## AkileCloud 支付方式
+
+商家支持支付宝、FPS(转数快)、USDT和信用卡等支付方式。
 
 ## AkileCloud 优惠码
 - **新用户8折优惠码**：`AkileCloud/LAXBASE/CUT-20` [立即使用](https://akile.io/shop/server?type=traffic&areaId=2&nodeId=73&planId=400&aff_code=3b1f9017-949d-4927-b228-797228e77f90)
@@ -35,6 +41,20 @@ sidebar_position: 9
 
 
 - 其他套餐配置，查看最新活动套餐，请访问：[www.akile.io/shop/server](https://akile.io/shop/server?type=traffic&aff_code=3b1f9017-949d-4927-b228-797228e77f90)
+
+### 新加坡SGBGP Lite V2
+
+新加坡便宜VPS，套餐全称：“**SGBGP Lite V2**”，移动v6直连，宿主机采用AMD 7D12高性能处理器，最低配为：1核1G/5G SSD/500M带宽/年付￥125，商家提供免费DNS解锁服务。
+
+1 IPv4+1 IPv6双栈接入，移动v6直连
+
+|    CPU | 内存 | 硬盘 |      流量 |     带宽 |       原价 |                           购买链接                           |
+| -----: | ---: | ---: | --------: | -------: | ---------: | :----------------------------------------------------------: |
+| 1 vCPU |   1G |   5G |  1000G/月 |  500Mbps | ¥124.99/年 | [点击购买](https://akile.io/shop/server?type=traffic&areaId=7&nodeId=67&aff_code=3b1f9017-949d-4927-b228-797228e77f90) |
+| 1 vCPU |   1G |   5G |  1000G/月 | 1000Mbps |  ¥24.99/月 | [点击购买](https://akile.io/shop/server?type=traffic&areaId=7&nodeId=67&aff_code=3b1f9017-949d-4927-b228-797228e77f90) |
+| 1 vCPU |   1G |  10G |  3000G/月 | 1000Mbps |  ¥43.74/月 | [点击购买](https://akile.io/shop/server?type=traffic&areaId=7&nodeId=67&aff_code=3b1f9017-949d-4927-b228-797228e77f90) |
+| 1 vCPU |   1G |  10G |  6000G/月 | 1500Mbps |  ¥87.49/月 | [点击购买](https://akile.io/shop/server?type=traffic&areaId=7&nodeId=67&aff_code=3b1f9017-949d-4927-b228-797228e77f90) |
+| 2 vCPU |   2G |  20G | 12000G/月 | 2000Mbps | ¥212.49/月 | [点击购买](https://akile.io/shop/server?type=traffic&areaId=7&nodeId=67&aff_code=3b1f9017-949d-4927-b228-797228e77f90) |
 
 ### Tokyo BGP Lite V3
 

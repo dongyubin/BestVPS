@@ -3,7 +3,7 @@ sidebar_position: 6
 
 ---
 
-# AlphaVPS 索菲亚/伦敦/洛杉矶/纽约/高速稳定 VPS 最新优惠活动(2024年)
+# AlphaVPS 索菲亚/伦敦/洛杉矶/纽约/高速稳定 VPS 最新优惠活动(2024年8月)
 
 ## AlphaVPS 简介
 
