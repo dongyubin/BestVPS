@@ -68,5 +68,5 @@ Ethernet Servers 的 VPS 服务器包括 Unmanaged 和 managed 两类，都可�
 
 ## 相关推荐
 
-- [RackNerd高性价比VPS优惠码和最新促销活动整理（2024年6月）](https://www.wangdu.site/fuliyouhui/1266.html)
-- [CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2024年6月)](https://www.wangdu.site/fuliyouhui/2115.html)
+- [RackNerd高性价比VPS优惠码和最新促销活动整理（2025年1月）](https://www.wangdu.site/fuliyouhui/1266.html)
+- [CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动（2025年1月）](https://www.wangdu.site/fuliyouhui/2115.html)

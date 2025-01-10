@@ -2,13 +2,16 @@
 sidebar_position: 3
 ---
 
-# BandwagonHost 搬瓦工 美国/日本/香港/CN2GIA/高速稳定 VPS 最新优惠活动(2024年8月)
+# BandwagonHost 搬瓦工 美国/日本/香港/CN2GIA/高速稳定 VPS 最新优惠活动(2024年12月)
 
 ## BandwagonHost 简介
 
 [BandwagonHost](https://bwh88.net/aff.php?aff=75023)（简称 BWG），加拿大 IT7 Net­works Inc.(819826-8) 旗下品牌，2004 年成立，T0 级别的老牌 VPS 商家，看官网画风就知道历史悠久。 因为其拼写和汉语拼音的 “ban­wag­ong” 极为相似，所以大家都亲切地称其为 “搬瓦工”。搬瓦工在美国洛杉矶 / 费利蒙市 / 新泽西 / 纽约. 荷兰阿姆斯特丹. 中国香港以及日本大阪均有机房，其中洛杉矶有三网直连. CN2 GT. CN2 GIA 顶级高端线路接入，香港有 CN2 GIA 顶级高端线路接入，日本大阪有软银 (BBTEC, Soft­Bank) 高端线路接入，荷兰有联通 CUII (AS9929) + CUG (AS10099) 精品线路接入。顶级技术，自研 VPS 后台管理面板 Ki­wiVM Con­trol Panel ，已实现高度自动化并提供完善的 API 接口，支持一键迁移机房，并且提供免费自动备份. 免费快照以及 99.9% SLA 保障。支持支付宝. Pay­Pal. 信用卡等主流付款方式。
 
-BandwagonHost 官网
+![BandwagonHost/搬瓦工 VPS 优惠活动](https://cdn.wwkejishe.top/wp-cdn-02/2024/20241220115351731.webp)
+
+## BandwagonHost 官网
+
 官方网站：[https://bandwagonhost.com](https://bwh88.net/aff.php?aff=75023)（已被 DNS 污染，解决后可访问）
 
 官方镜像站：
@@ -30,6 +33,25 @@ BandwagonHost 官网
 已过期：~~BWHCCNCXVV（优惠力度 6.78%）~~
 
 下方表格中均为原价，不要忘记使用优惠码。年付优惠可与优惠码叠加。
+
+## BandwagonHost 12月优惠
+
+| CPU           | 内存 | 硬盘(SSD) | 带宽  | 流量  | 价格   | 购买链接                                                |
+| :------------ | :--- | :-------- | :---- | :---- | :----- | :------------------------------------------------------ |
+| 1x Intel Xeon | 1G   | 20G       | 1Gbps | 1T/月 | $37/年 | [点击购买](https://bwh88.net/aff.php?aff=75023&pid=152) |
+
+邀请码: （一个邀请码只能用于一次订单）
+
+- `bwh_Pwd8dim0jeKBuQwKd1tk6O7B8EMR`
+- `bwh_ethUPkSTt4KD9k5t1r34jmfg0cIZ`
+- `bwh_HkGLDNwjYe2i9DM8NHsEZlz9yEfp`
+- `bwh_HNeeYKQrocBdgumgXYeBvw6kIvj6`
+- `bwh_Zpmw2rBQ1h8gjzjqUvwHjB8FY4Qw`
+- `bwh_q0tffFC8W4OObMUlc4CWpZuzrt5f`
+- `bwh_oLBECVKHqdFd7kS9XDlZxNMND7dU`
+- `bwh_q8ZFKr9ccKJtNfxLpfKcIV26zFJ2` 
+- `bwh_CNNTLComUooWYYfC3DdjIOmhAfeZ` 
+- `bwh_KNSdrvX2YceIqtufhAIb3LkCqxKQ`
 
 ## BandwagonHost 2024 限量版 VPS
 

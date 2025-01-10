@@ -11,17 +11,17 @@ description: 该页面为VPS（虚拟专用服务器）选购指南，主要推�
 
 ### 稳定免备案建站 VPS 推荐
 
-1. 中国大陆优化线路 VPS 商家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](../guowai-vps/dmit.md)）
-2. 跨境电商外贸建站 VPS 商家：[Vultr](https://www.vultr.com/?ref=8888141)、[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](../guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）
+1. 中国大陆优化线路 VPS 商家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/banwagon)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/dmit)）
+2. 跨境电商外贸建站 VPS 商家：[Vultr](https://www.vultr.com/?ref=8888141)、[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/racknerd)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/cloudcone)）
 
 ### 科学上网搭梯子 VPS 推荐
 
-1. 高速稳定线路 VPS 商家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](../guowai-vps/dmit.md)）
-2. 优质常规线路 VPS 商家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](../guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）
+1. 高速稳定线路 VPS 商家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/banwagon)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/dmit)）
+2. 优质常规线路 VPS 商家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/racknerd)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/cloudcone)）
 
 ### 大硬盘BT/PT下载 VPS 推荐
 
-[BuyVM](https://my.frantech.ca/aff.php?aff=7431)（[BuyVM 最新优惠 点此查看](../guowai-vps/buyvm.md)）
+[BuyVM](https://my.frantech.ca/aff.php?aff=7431)（[BuyVM 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/buyvm)）
 
 ### 免费体验 VPS 推荐
 
@@ -46,8 +46,8 @@ description: 该页面为VPS（虚拟专用服务器）选购指南，主要推�
     - 网络延时要求高就选择`亚太地区`（价格贵一些）
     - 延时要求不高的就建议选择`美国地区`（一般首选美西，洛杉矶、圣何塞，价格便宜一些）
     - 国外VPS线路优先度：`CN2 GIA>CN2 GT>163直连`（CN2 GIA在中美比较便宜，对三网适配好，HK、JP、KR等地区也有，只不过价格便贵，其他地区最好的就是普通的CN2线路）
-    - 商业站点推荐厂家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](../guowai-vps/dmit.md)）、[Contabo](https://contabo.com/en/)、[iON](https://ion.krypt.asia/)、[Vultr](https://www.vultr.com/?ref=8888141)、[Linode](https://www.linode.com/)
-    - 个人站点推荐厂家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](../guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）
+    - 商业站点推荐厂家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/banwagon)）、[DMIT](https://www.dmit.io/aff.php?aff=7952&language=chinese)（[DMIT 最新优惠 点此查看](../guowai-vps/dmit.md)）、[Contabo](https://contabo.com/en/)、[iON](https://ion.krypt.asia/)、[Vultr](https://www.vultr.com/?ref=8888141)、[Linode](https://www.linode.com/)
+    - 个人站点推荐厂家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/racknerd)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/cloudcone)）
 
 > BGP线路是指机房接入了电信、联通、移动等各大网络运营商，通过BGP协议实现互联，如果用户是电信网络环境，就连电信线路，如果用户是联通网络环境，就连联通线路，以此来降低延迟提高速度。
 > 
@@ -70,8 +70,8 @@ description: 该页面为VPS（虚拟专用服务器）选购指南，主要推�
   - 电信用户：CN2 GIA > CN2 GT > 163直连
   - 联通用户：CN2 GIA >= 三网回程9929 > 三网回程4837（实际体验中大带宽4837比一些9929更舒服）
   - 移动用户：CN2 GIA >= cmi2 > cmi
-- 价格最贵的厂家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](../guowai-vps/banwagon.md)）
-- 价格最便宜的厂家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](../guowai-vps/racknerd.md)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](../guowai-vps/cloudcone.md)）、[VirMach](https://virmach.com/)（尽量选美西）
+- 价格最贵的厂家：[搬瓦工](https://bwh81.net/aff.php?aff=75023)（[BandwagonHost 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/banwagon)）
+- 价格最便宜的厂家：[RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/racknerd)）、[CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](https://bestvps.wwkejishe.top/guowai-vps/cloudcone)）、[VirMach](https://virmach.com/)（尽量选美西）
 - 性价比的厂家：[Spartan Host](https://spartanhost.org/)、[iON](https://ion.krypt.asia/)
 
 ## 下载服务器

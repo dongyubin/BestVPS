@@ -1,10 +1,10 @@
-# ZGOCloud德国/日本/美国/荷兰高速稳定 VPS 最新优惠活动(2024年10月)
+# ZGOCloud 德国/日本/美国/荷兰高速稳定 VPS 最新优惠活动(2024年10月)
 
 ## ZGOCloud 简介
 
 [ZGOCloud](https://clients.zgovps.com/?affid=867)，今年新成立的商家，目前主营德国大硬盘VPS、日本高性能VPS、美国高速VPS，支持中文、支持信用卡和支付宝付款。本文整理 ZGOCloud 商家的最新优惠活动供大家参考。
 
-![ZGOCloud](https://img.rakvps.com/2023/06/zgocloud.jpg)
+![ZGOCloud](https://cdn.wwkejishe.top/wp-cdn-02/2024/202410141104845.webp)
 
 ## ZGOCloud 官网地址
 

@@ -1,11 +1,11 @@
 ---
-title: CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2024年10月)
+title: CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2025年1月)
 sidebar_position: 2
 description: CloudCone是一家提供VPS（虚拟专用服务器）服务的美国公司，成立于2017年，致力于为全球用户提供可扩展、灵活且具有性价比的云计算服务。CloudCone的VPS服务以其灵活的计费方式（按小时或按月付费）而闻名，同时还支持用户自定义服务器配置和资源。
 image: https://b2.wwkejishe.top/WP-CDN-02/2024/202406171710947.webp
 ---
 
-# CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2024年10月)
+# CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2025年1月)
 
 ## CloudCone 简介
 
@@ -30,6 +30,76 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 > 购买需先[注册账号](https://app.cloudcone.com.cn/signup?ref=11076)预先充值。充值支持**支付宝**、Pay­pal、信用卡等支付方式。例如需要购买 20 美元月付主机，可以预先充值 20 美元。既可快速抢购活动主机。
 >
 > 如果不着急购买，也可以先[注册账号](https://app.cloudcone.com.cn/signup?ref=11076)，下次促销活动时会有邮件通知。
+
+## CloudCone 2025 补货
+
+| 内存 | CPU  | 硬盘 | 流量  | 价格(续费同价) |                             链接                             |
+| :--: | :--: | :--: | :---: | :------------: | :----------------------------------------------------------: |
+|  1G  | 2核  | 14G  | 3T/月 |   $12.99/年    | [链接](https://app.cloudcone.com/vps/349/create?token=xmas-24-ssd-vps-1&ref=11076) |
+|  2G  | 3核  | 26G  | 4T/月 |   $21.99/年    | [链接](https://app.cloudcone.com/vps/350/create?token=xmas-24-ssd-vps-2&ref=11076) |
+
+## CloudCone 2024 圣诞VPS
+
+![CloudCone 2024 圣诞VPS](https://cdn.wwkejishe.top/wp-cdn-02/2024/20241227091503729.webp)
+
+| 内存 | CPU  | 硬盘 |  流量  | 价格(续费同价) |                             链接                             |
+| :--: | :--: | :--: | :----: | :------------: | :----------------------------------------------------------: |
+|  1G  | 2核  | 14G  | 3T/月  |   $12.99/年    | [链接](https://app.cloudcone.com/vps/349/create?token=xmas-24-ssd-vps-1&ref=11076) |
+|  2G  | 3核  | 26G  | 4T/月  |   $21.99/年    | [链接](https://app.cloudcone.com/vps/350/create?token=xmas-24-ssd-vps-2&ref=11076) |
+|  4G  | 6核  | 55G  | 5T/月  |   $38.99/年    | [链接](https://app.cloudcone.com/vps/351/create?token=xmas-24-ssd-vps-3&ref=11076) |
+|  8G  | 10核 | 111G | 6T/月  |   $72.99/年    | [链接](https://app.cloudcone.com/vps/352/create?token=xmas-24-ssd-vps-4&ref=11076) |
+| 16G  | 14核 | 223G | 8T/月  |    $144/年     | [链接](https://app.cloudcone.com/vps/353/create?token=xmas-24-ssd-vps-5&ref=11076) |
+| 32G  | 18核 | 447G | 10T/月 |    $299/年     | [链接](https://app.cloudcone.com/vps/354/create?token=xmas-24-ssd-vps-6&ref=11076) |
+
+## CloudCone 2024 黑色星期五促销活动
+
+![2024 CloudCone 黑色星期五促销活动](https://cdn.wwkejishe.top/wp-cdn-02/2024/202411271344774.png)
+
+大减价包括VPS优惠、 SC2优惠（提供免费备份和快照）、 CDN优惠和托管电子邮件优惠。库存有限！
+
+### 黑五便宜年付VPS
+
+| 内存 | CPU  | 硬盘 |  流量  | 价格(续费同价) |                             链接                             |
+| :--: | :--: | :--: | :----: | :------------: | :----------------------------------------------------------: |
+| 512M | 1核  |  7G  | 2T/月  |   $10.99/年    | [链接](https://app.cloudcone.com.cn/vps/291/create?token=bf-24-ssd-vps-1&ref=11076) |
+|  1G  | 2核  | 14G  | 3T/月  |   $12.99/年    | [链接](https://app.cloudcone.com.cn/vps/292/create?token=bf-24-ssd-vps-2&ref=11076) |
+|  2G  | 6核  | 27G  | 4T/月  |   $20.88/年    | [链接](https://app.cloudcone.com.cn/vps/293/create?token=bf-24-ssd-vps-3&ref=11076) |
+|  4G  | 9核  | 55G  | 6T/月  |    $37.5/年    | [链接](https://app.cloudcone.com.cn/vps/294/create?token=bf-24-ssd-vps-4&ref=11076) |
+|  8G  | 12核 | 111G | 8T/月  |   $71.99/年    | [链接](https://app.cloudcone.com.cn/vps/295/create?token=bf-24-ssd-vps-5&ref=11076) |
+| 16G  | 15核 | 231G | 9T/月  |   $142.99/年   | [链接](https://app.cloudcone.com.cn/vps/296/create?token=bf-24-ssd-vps-6&ref=11076) |
+| 32G  | 20核 | 490G | 10T/月 |   $295.99/年   | [链接](https://app.cloudcone.com.cn/vps/297/create?token=bf-24-ssd-vps-7&ref=11076) |
+
+### 黑五便宜云服务器
+
+| 内存 | CPU  | 硬盘  |  流量  | 价格(续费同价) |                             链接                             |
+| :--: | :--: | :---: | :----: | :------------: | :----------------------------------------------------------: |
+|  2G  | 3核  |  50G  | 3T/月  |   $59.82/年    | [链接](https://app.cloudcone.com.cn/compute/1453/create?token=bf-24-sc2-1&ref=11076) |
+|  4G  | 5核  | 110G  | 4T/月  |   $111.96/年   | [链接](https://app.cloudcone.com.cn/compute/1454/create?token=bf-24-sc2-2&ref=11076) |
+|  8G  | 9核  | 220G  | 6T/月  |   $225.70/年   | [链接](https://app.cloudcone.com.cn/compute/1455/create?token=bf-24-sc2-3&ref=11076) |
+| 16G  | 12核 | 550G  | 8T/月  |   $426.22/年   | [链接](https://app.cloudcone.com.cn/compute/1456/create?token=bf-24-sc2-4&ref=11076) |
+| 32G  | 15核 | 990G  | 10T/月 |   $853.16/年   | [链接](https://app.cloudcone.com.cn/compute/1457/create?token=bf-24-sc2-5&ref=11076) |
+| 64G  | 20核 | 1900G | 10T/月 |  $1678.29/年   | [链接](https://app.cloudcone.com.cn/compute/1458/create?token=bf-24-sc2-6&ref=11076) |
+
+### 黑五Windows云服务器
+
+| 内存 | CPU  | 硬盘 |  流量  | 价格(续费同价) |                             链接                             |
+| :--: | :--: | :--: | :----: | :------------: | :----------------------------------------------------------: |
+|  4G  | 3核  | 60G  | 3T/月  |   $17.49/月    | [链接](https://app.cloudcone.com.cn/compute/1418/create-windows&ref=11076) |
+|  8G  | 5核  | 120G | 5T/月  |   $32.94/月    | [链接](https://app.cloudcone.com.cn/compute/1419/create-windows&ref=11076) |
+| 16G  | 8核  | 240G | 8T/月  |   $62.79/月    | [链接](https://app.cloudcone.com.cn/compute/1420/create-windows&ref=11076) |
+| 32G  | 16核 | 500G | 10T/月 |   $125.76/月   | [链接](https://app.cloudcone.com.cn/compute/1421/create-windows&ref=11076) |
+
+## CloudCone 双11促销活动套餐
+
+### 美国纯固态VPS
+
+
+
+|   CPU |  内存 |     硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
+| ----: | ----: | -------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
+| 1vCPU | 512MB |  7GB SSD | 2T/月 | 1Gbps | 1IPv4+3IPv6 | $10.99/年 | [点击购买](https://app.cloudcone.com/vps/288/create?token=11-11-24-ssd-vps-1&ref=11076) |
+| 2vCPU |    1G | 11GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $11.99/年 | [点击购买](https://app.cloudcone.com/vps/289/create?token=11-11-24-ssd-vps-2&ref=11076) |
+| 4vCPU |   2GB | 25GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $19.99/年 | [点击购买](https://app.cloudcone.com/vps/290/create?token=11-11-24-ssd-vps-3&ref=11076) |
 
 ## CloudCone 10月促销活动套餐
 
@@ -243,4 +313,4 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 ## 相关推荐
 
-- [RackNerd高性价比VPS优惠码和最新促销活动整理（2024年6月）](https://www.wangdu.site/fuliyouhui/1266.html)
+- [RackNerd高性价比VPS优惠码和最新促销活动整理（2025年1月）](https://www.wangdu.site/fuliyouhui/1266.html)

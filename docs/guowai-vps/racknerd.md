@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-title: RackNerd 高性价比便宜 VPS 最新优惠活动(2024年9月)
+title: RackNerd 高性价比便宜 VPS 最新优惠活动(2024年12月)
 description: RackNerd是一家促销活动比较多的美国商家，提供国外VPS、虚拟主机和独立服务器，一般主打价格优势，为用户提供便宜套餐，最低年付不到10美元。由于 RackNerd 促销比较杂，本文就专门为大家整理汇总了近期有效RackNerd优惠码以及优惠促销活动信息，方便大家选择。
 image: https://b2.wwkejishe.top/WP-CDN-02/2022/202211171048611.webp
 ---
 
-# RackNerd 高性价比便宜 VPS 最新优惠活动(2024年9月)
+# RackNerd 高性价比便宜 VPS 最新优惠活动(2024年12月)
 
 ## RackNerd简介
 
@@ -34,6 +34,88 @@ RackNerd 有个长期优惠码是`15OFFDEDI`，这个优惠码适用于所有Rac
 | [RN-2022](https://my.racknerd.com/aff.php?aff=6200&gid=9)    | 7.5折    | 常规虚拟主机和VPS方案 |
 
 ## RackNerd VPS最新优惠
+
+### RackNerd 2025 新年促销活动
+
+| CPU   | 内存 | SSD  | 月流量 | 价格      | 购买链接                                                     |
+| ----- | ---- | ---- | ------ | --------- | ------------------------------------------------------------ |
+| 1核心 | 1G   | 24G  | 2TB    | $11.29/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=903) |
+| 1核心 | 2G   | 40G  | 3.5TB  | $18.29/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=904) |
+| 2核心 | 3.5G | 65G  | 7TB    | $32.49/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=905) |
+| 3核心 | 4G   | 105G | 9TB    | $43.88/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=906) |
+| 4核心 | 6G   | 140G | 12TB   | $59.99/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=907) |
+
+### RackNerd 2024 黑色星期五
+
+**VPS 产品**
+
+| CPU   | 内存 | SSD  | 月流量 | 价格      | 购买链接                                                     |
+| ----- | ---- | ---- | ------ | --------- | ------------------------------------------------------------ |
+| 1核心 | 1G   | 20G  | 1.5TB  | $10.99/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=879) |
+| 2核心 | 2.5G | 40G  | 3TB    | $18.93/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=880) |
+| 2核心 | 3G   | 60G  | 5.5TB  | $27.89/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=881) |
+| 3核心 | 4.5G | 100G | 6TB    | $39.88/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=882) |
+| 4核心 | 5G   | 130G | 12TB   | $55.93/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=883) |
+
+**专用服务器产品**
+
+| 产品名称                                                     | 内存 | SSD    | IP地址                          | 价格    | 购买链接                                                     |
+| ------------------------------------------------------------ | ---- | ------ | ------------------------------- | ------- | ------------------------------------------------------------ |
+| **英特尔至强**E3-1240 V3 - 4x 3.40 GHz（8 线程，3.80 GHz Turbo） | 32G  | 2TB    | /28 - 13个                      | $59/月  | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=890) |
+| **双 Xeon** E5-2620 V2 - 12x 2.10 GHz（24 线程，2.60 GHz Turbo） | 64G  | 1TB    | /30 - 1个                       | $99/月  | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=891) |
+| **双 Xeon** E5-2690 V4 - 28x 2.60 GHz（56 线程，3.50 GHz Turbo） | 128G | 3.2TB  | /30 - 1个                       | $155/月 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=892) |
+| **双 Xeon** E5-2630 V3 - 16x 2.40 GHz（32x 线程，3.20GHz Turbo） | 128G | 4*12TB | /30 - 1个                       | $199/月 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=893) |
+| **英特尔至强**E3-1240 V2 - 4x 3.40 GHz（8 线程，3.80 GHz Turbo） | 16G  | 1TB    | /29 + 4x /26、8x /27 或 16x /28 | $139/月 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=894) |
+
+**共享主机产品**
+
+共有资源：
+
+- **CloudLinux**支持
+- **KernelCare**已启用（最高安全性/正常运行时间）
+- **cPanel**控制面板
+- **Softaculous**脚本安装程序
+- **LiteSpeed**网络服务器
+- **免费**异地每日备份（JetBackup）
+- **免费**Clientexec 许可证
+- **MailChannels** Hybrid - 优质电子邮件递送
+- 在多个地区有售（美国、欧盟、亚洲）
+
+| SSD  | 月流量（传输量） | 托管域名 | 价格      | 购买链接                                                     |
+| ---- | ---------------- | -------- | --------- | ------------------------------------------------------------ |
+| 35G  | 4TB              | 4个      | $13.77/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=884) |
+| 75G  | 8TB              | 12个     | $22.93/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=885) |
+| 130G | 25TB             | 无限     | $51.89/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=886) |
+
+**经销商托管产品**
+
+共有资源：
+
+- **免费**SSL 证书
+- **CloudLinux**支持
+- **KernelCare**已启用（最高安全性/正常运行时间）
+- **cPanel 和 WHM**控制面板
+- **Softaculous**脚本安装程序
+- **LiteSpeed**网络服务器
+- **免费**异地每日备份（JetBackup）
+- **免费**Clientexec 许可证
+- **MailChannels** Hybrid - 优质电子邮件递送
+- 在多个地区有售（美国、欧盟、亚洲）
+
+| SSD  | 月流量（传输量） | cPanel 账户 | 价格      | 购买链接                                                     |
+| ---- | ---------------- | ----------- | --------- | ------------------------------------------------------------ |
+| 60G  | 2TB              | 4个         | $31.88/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=887) |
+| 100G | 4TB              | 8个         | $57.99/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=888) |
+| 160G | 8TB              | 15个        | $86.88/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=889) |
+
+### RackNerd 2024 双11促销活动
+
+| CPU   | 内存 | SSD  | 月流量 | 价格      | 购买链接                                                     |
+| ----- | ---- | ---- | ------ | --------- | ------------------------------------------------------------ |
+| 1核心 | 1G   | 14G  | 2TB    | $11.11/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=875) |
+| 1核心 | 2G   | 25G  | 4TB    | $17.98/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=876) |
+| 2核心 | 3G   | 40G  | 5TB    | $25.98/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=877) |
+| 3核心 | 4G   | 50G  | 6TB    | $36.88/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=878) |
 
 ### 2024年6月
 
