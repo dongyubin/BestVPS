@@ -72,7 +72,7 @@ const config = {
       metadata: [
         {
           name: 'google-site-verification',
-          content: 'r3PADZr3-uDSLp-RCbOG6fyR7HHK-U5Iob2OYLbnAOA',
+          content: 'KBPn5wrmRqhyywKks4B7wK6kIXpOyxcFpm1FCx4XdR8',
         },
       ],
       navbar: {

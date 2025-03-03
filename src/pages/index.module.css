@@ -21,3 +21,7 @@
   align-items: center;
   justify-content: center;
 }
+
+.buttonSpacing {
+  margin-right: 1rem; /* 调整此值以控制按钮间距 */
+}

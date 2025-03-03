@@ -1,11 +1,11 @@
 ---
-title: CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2025年1月)
+title: CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2025年2月)
 sidebar_position: 2
 description: CloudCone是一家提供VPS（虚拟专用服务器）服务的美国公司，成立于2017年，致力于为全球用户提供可扩展、灵活且具有性价比的云计算服务。CloudCone的VPS服务以其灵活的计费方式（按小时或按月付费）而闻名，同时还支持用户自定义服务器配置和资源。
 image: https://b2.wwkejishe.top/WP-CDN-02/2024/202406171710947.webp
 ---
 
-# CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2025年1月)
+# CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2025年2月)
 
 ## CloudCone 简介
 
@@ -31,12 +31,34 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 >
 > 如果不着急购买，也可以先[注册账号](https://app.cloudcone.com.cn/signup?ref=11076)，下次促销活动时会有邮件通知。
 
+## CloudCone 2025 年大减价
+
+| 内存 | CPU  | 硬盘 | 流量  | 价格(续费同价) |                             链接                             |
+| :--: | :--: | :--: | :---: | :------------: | :----------------------------------------------------------: |
+|  1G  | 2核  | 14G  | 3T/月 |   $17.00/年    | [链接](https://app.cloudcone.com.cn/vps/361/create?token=hashtag-25-ssd-vps-1&ref=11076) |
+| 16G  | 14核 | 223G | 8T/月 |   $150.00/年   | [链接](https://app.cloudcone.com.cn/vps/365/create?token=hashtag-25-ssd-vps-5&ref=11076) |
+
+## CloudCone 2025 大存储VPS清仓销售
+
+| 内存 | CPU  | 硬盘 | 流量  | 价格(续费同价) |                             链接                             |
+| :--: | :--: | :--: | :---: | :------------: | :----------------------------------------------------------: |
+|  2G  | 3核  | 240G | 5T/月 |   $24.99/年    | [链接](https://app.cloudcone.com.cn/vps/370/create?token=cny-25-cs-vps-1&ref=11076) |
+|  4G  | 6核  | 480G | 6T/月 |   $44.99/年    | [链接](https://app.cloudcone.com.cn/vps/370/create?token=cny-25-cs-vps-2&ref=11076) |
+|  8G  | 10核 | 960G | 7T/月 |   $85.00/年    | [链接](https://app.cloudcone.com.cn/vps/370/create?token=cny-25-cs-vps-3&ref=11076) |
+
+## CloudCone 2025 新年优惠
+
+| 内存 | CPU  | 硬盘 | 流量  | 价格(续费同价) |                             链接                             |
+| :--: | :--: | :--: | :---: | :------------: | :----------------------------------------------------------: |
+|  1G  | 2核  | 14G  | 3T/月 |   $17.00/年    | [链接](https://app.cloudcone.com.cn/vps/361/create?token=hashtag-25-ssd-vps-1&ref=11076) |
+|  2G  | 3核  | 26G  | 4T/月 |   $23.55/年    | [链接](https://app.cloudcone.com.cn/vps/362/create?token=hashtag-25-ssd-vps-2&ref=11076) |
+
 ## CloudCone 2025 补货
 
 | 内存 | CPU  | 硬盘 | 流量  | 价格(续费同价) |                             链接                             |
 | :--: | :--: | :--: | :---: | :------------: | :----------------------------------------------------------: |
-|  1G  | 2核  | 14G  | 3T/月 |   $12.99/年    | [链接](https://app.cloudcone.com/vps/349/create?token=xmas-24-ssd-vps-1&ref=11076) |
-|  2G  | 3核  | 26G  | 4T/月 |   $21.99/年    | [链接](https://app.cloudcone.com/vps/350/create?token=xmas-24-ssd-vps-2&ref=11076) |
+|  1G  | 2核  | 14G  | 3T/月 |   $12.99/年    | [链接](https://app.cloudcone.com.cn/vps/349/create?token=xmas-24-ssd-vps-1&ref=11076) |
+|  2G  | 3核  | 26G  | 4T/月 |   $21.99/年    | [链接](https://app.cloudcone.com.cn/vps/350/create?token=xmas-24-ssd-vps-2&ref=11076) |
 
 ## CloudCone 2024 圣诞VPS
 
@@ -44,12 +66,12 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 | 内存 | CPU  | 硬盘 |  流量  | 价格(续费同价) |                             链接                             |
 | :--: | :--: | :--: | :----: | :------------: | :----------------------------------------------------------: |
-|  1G  | 2核  | 14G  | 3T/月  |   $12.99/年    | [链接](https://app.cloudcone.com/vps/349/create?token=xmas-24-ssd-vps-1&ref=11076) |
-|  2G  | 3核  | 26G  | 4T/月  |   $21.99/年    | [链接](https://app.cloudcone.com/vps/350/create?token=xmas-24-ssd-vps-2&ref=11076) |
-|  4G  | 6核  | 55G  | 5T/月  |   $38.99/年    | [链接](https://app.cloudcone.com/vps/351/create?token=xmas-24-ssd-vps-3&ref=11076) |
-|  8G  | 10核 | 111G | 6T/月  |   $72.99/年    | [链接](https://app.cloudcone.com/vps/352/create?token=xmas-24-ssd-vps-4&ref=11076) |
-| 16G  | 14核 | 223G | 8T/月  |    $144/年     | [链接](https://app.cloudcone.com/vps/353/create?token=xmas-24-ssd-vps-5&ref=11076) |
-| 32G  | 18核 | 447G | 10T/月 |    $299/年     | [链接](https://app.cloudcone.com/vps/354/create?token=xmas-24-ssd-vps-6&ref=11076) |
+|  1G  | 2核  | 14G  | 3T/月  |   $12.99/年    | [链接](https://app.cloudcone.com.cn/vps/349/create?token=xmas-24-ssd-vps-1&ref=11076) |
+|  2G  | 3核  | 26G  | 4T/月  |   $21.99/年    | [链接](https://app.cloudcone.com.cn/vps/350/create?token=xmas-24-ssd-vps-2&ref=11076) |
+|  4G  | 6核  | 55G  | 5T/月  |   $38.99/年    | [链接](https://app.cloudcone.com.cn/vps/351/create?token=xmas-24-ssd-vps-3&ref=11076) |
+|  8G  | 10核 | 111G | 6T/月  |   $72.99/年    | [链接](https://app.cloudcone.com.cn/vps/352/create?token=xmas-24-ssd-vps-4&ref=11076) |
+| 16G  | 14核 | 223G | 8T/月  |    $144/年     | [链接](https://app.cloudcone.com.cn/vps/353/create?token=xmas-24-ssd-vps-5&ref=11076) |
+| 32G  | 18核 | 447G | 10T/月 |    $299/年     | [链接](https://app.cloudcone.com.cn/vps/354/create?token=xmas-24-ssd-vps-6&ref=11076) |
 
 ## CloudCone 2024 黑色星期五促销活动
 
@@ -97,9 +119,9 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 |   CPU |  内存 |     硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
 | ----: | ----: | -------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
-| 1vCPU | 512MB |  7GB SSD | 2T/月 | 1Gbps | 1IPv4+3IPv6 | $10.99/年 | [点击购买](https://app.cloudcone.com/vps/288/create?token=11-11-24-ssd-vps-1&ref=11076) |
-| 2vCPU |    1G | 11GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $11.99/年 | [点击购买](https://app.cloudcone.com/vps/289/create?token=11-11-24-ssd-vps-2&ref=11076) |
-| 4vCPU |   2GB | 25GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $19.99/年 | [点击购买](https://app.cloudcone.com/vps/290/create?token=11-11-24-ssd-vps-3&ref=11076) |
+| 1vCPU | 512MB |  7GB SSD | 2T/月 | 1Gbps | 1IPv4+3IPv6 | $10.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/288/create?token=11-11-24-ssd-vps-1&ref=11076) |
+| 2vCPU |    1G | 11GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $11.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/289/create?token=11-11-24-ssd-vps-2&ref=11076) |
+| 4vCPU |   2GB | 25GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $19.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/290/create?token=11-11-24-ssd-vps-3&ref=11076) |
 
 ## CloudCone 10月促销活动套餐
 
@@ -107,8 +129,8 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 |   CPU | 内存 |     硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
 | ----: | ---: | -------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
-| 2vCPU |   1G | 14GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $13.99/年 | [点击购买](https://app.cloudcone.com/vps/282/create?token=pre-bf-24-ssd-vps-1&ref=11076) |
-| 5vCPU |   2G | 27GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $21.21/年 | [点击购买](https://app.cloudcone.com/vps/283/create?token=pre-bf-24-ssd-vps-2&ref=11076) |
+| 2vCPU |   1G | 14GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $13.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/282/create?token=pre-bf-24-ssd-vps-1&ref=11076) |
+| 5vCPU |   2G | 27GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $21.21/年 | [点击购买](https://app.cloudcone.com.cn/vps/283/create?token=pre-bf-24-ssd-vps-2&ref=11076) |
 
 ## CloudCone 9月促销活动套餐
 
@@ -118,16 +140,16 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 |   CPU | 内存 |      硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
 | ----: | ---: | --------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
-| 2vCPU |   2G |  45GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 |  $4.98/月 | [点击购买](https://app.cloudcone.com/compute/1450/create?token=mcs24-sc2-6&ref=11076) |
-| 4vCPU |   4G |  90GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 |  $9.98/月 | [点击购买](https://app.cloudcone.com/compute/1450/create?token=mcs24-sc2-6&ref=11076) |
-| 6vCPU |   8G | 180GB SSD | 5T/月 | 1Gbps | 1IPv4+3IPv6 | $19.98/月 | [点击购买](https://app.cloudcone.com/compute/1452/create?token=mcs24-sc2-8&ref=11076) |
+| 2vCPU |   2G |  45GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 |  $4.98/月 | [点击购买](https://app.cloudcone.com.cn/compute/1450/create?token=mcs24-sc2-6&ref=11076) |
+| 4vCPU |   4G |  90GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 |  $9.98/月 | [点击购买](https://app.cloudcone.com.cn/compute/1450/create?token=mcs24-sc2-6&ref=11076) |
+| 6vCPU |   8G | 180GB SSD | 5T/月 | 1Gbps | 1IPv4+3IPv6 | $19.98/月 | [点击购买](https://app.cloudcone.com.cn/compute/1452/create?token=mcs24-sc2-8&ref=11076) |
 
 ### 美国纯固态硬盘
 
 |   CPU | 内存 |      硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
 | ----: | ---: | --------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
-| 2vCPU |   1G | 100GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $14.50/年 | [点击购买](https://app.cloudcone.com/vps/278/create?token=mcs-24-vps-7&ref=11076) |
-| 3vCPU |   2G | 200GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $25.50/年 | [点击购买](https://app.cloudcone.com/vps/279/create?token=mcs-24-vps-8&ref=11076) |
+| 2vCPU |   1G | 100GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $14.50/年 | [点击购买](https://app.cloudcone.com.cn/vps/278/create?token=mcs-24-vps-7&ref=11076) |
+| 3vCPU |   2G | 200GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $25.50/年 | [点击购买](https://app.cloudcone.com.cn/vps/279/create?token=mcs-24-vps-8&ref=11076) |
 
 ## CloudCone 8月促销活动套餐
 
@@ -135,16 +157,16 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 |   CPU | 内存 |     硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
 | ----: | ---: | -------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
-| 2vCPU |   1G | 15GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $13.50/年 | [点击购买](https://app.cloudcone.com/vps/267/create?token=hashtag-2024-ssd-vps-1&ref=11076) |
-| 4vCPU |   2G | 30GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $19.99/年 | [点击购买](https://app.cloudcone.com/vps/268/create?token=hashtag-2024-ssd-vps-2&ref=11076) |
-| 6vCPU |   4G | 60GB SSD | 5T/月 | 1Gbps | 1IPv4+3IPv6 | $39.99/年 | [点击购买](https://app.cloudcone.com/vps/269/create?token=hashtag-2024-ssd-vps-3&ref=11076) |
+| 2vCPU |   1G | 15GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $13.50/年 | [点击购买](https://app.cloudcone.com.cn/vps/267/create?token=hashtag-2024-ssd-vps-1&ref=11076) |
+| 4vCPU |   2G | 30GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $19.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/268/create?token=hashtag-2024-ssd-vps-2&ref=11076) |
+| 6vCPU |   4G | 60GB SSD | 5T/月 | 1Gbps | 1IPv4+3IPv6 | $39.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/269/create?token=hashtag-2024-ssd-vps-3&ref=11076) |
 
 ### 美国DC2 SSD（限时24小时）
 
 |   CPU | 内存 |     硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
 | ----: | ---: | -------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
-| 2vCPU |   1G | 20GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $13.99/年 | [点击购买](https://app.cloudcone.com/vps/265/create?token=mcs-24-ssd-vps-1&ref=11076) |
-| 4vCPU |   4G | 40GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $39.99/年 | [点击购买](https://app.cloudcone.com/vps/266/create?token=mcs-24-ssd-vps-2&ref=11076) |
+| 2vCPU |   1G | 20GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $13.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/265/create?token=mcs-24-ssd-vps-1&ref=11076) |
+| 4vCPU |   4G | 40GB SSD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $39.99/年 | [点击购买](https://app.cloudcone.com.cn/vps/266/create?token=mcs-24-ssd-vps-2&ref=11076) |
 
 ## CloudCone 7周年促销活动套餐
 
@@ -156,12 +178,12 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 |   CPU |  内存 |     硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
 | ----: | ----: | -------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
-| 1vCPU | 768MB |  5GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 |    $10/年 | [点击购买](https://app.cloudcone.com/vps/263/create?token=cc-turns-7-cs-2&ref=11076) |
-| 1vCPU |    1G |  7GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 |    $12/年 | [点击购买](https://app.cloudcone.com/vps/262/create?token=cc-turns-7-cs-1&ref=11076) |
-| 2vCPU |    1G |  55G HDD | 2T/月 | 1Gbps | 1IPv4+3IPv6 | $15.25/年 | [点击购买](https://app.cloudcone.com/vps/252/create?token=bday24-vps-1&ref=11076) |
-| 2vCPU |    2G | 100G HDD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $26.22/年 | [点击购买](https://app.cloudcone.com/vps/253/create?token=bday24-vps-2&ref=11076) |
-| 2vCPU |    3G | 160G HDD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $37.33/年 | [点击购买](https://app.cloudcone.com/vps/254/create?token=bday24-vps-3&ref=11076) |
-| 4vCPU |    4G | 220G HDD | 5T/月 | 1Gbps | 1IPv4+3IPv6 | $48.25/年 | [点击购买](https://app.cloudcone.com/vps/255/create?token=bday24-vps-4&ref=11076) |
+| 1vCPU | 768MB |  5GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 |    $10/年 | [点击购买](https://app.cloudcone.com.cn/vps/263/create?token=cc-turns-7-cs-2&ref=11076) |
+| 1vCPU |    1G |  7GB SSD | 3T/月 | 1Gbps | 1IPv4+3IPv6 |    $12/年 | [点击购买](https://app.cloudcone.com.cn/vps/262/create?token=cc-turns-7-cs-1&ref=11076) |
+| 2vCPU |    1G |  55G HDD | 2T/月 | 1Gbps | 1IPv4+3IPv6 | $15.25/年 | [点击购买](https://app.cloudcone.com.cn/vps/252/create?token=bday24-vps-1&ref=11076) |
+| 2vCPU |    2G | 100G HDD | 3T/月 | 1Gbps | 1IPv4+3IPv6 | $26.22/年 | [点击购买](https://app.cloudcone.com.cn/vps/253/create?token=bday24-vps-2&ref=11076) |
+| 2vCPU |    3G | 160G HDD | 4T/月 | 1Gbps | 1IPv4+3IPv6 | $37.33/年 | [点击购买](https://app.cloudcone.com.cn/vps/254/create?token=bday24-vps-3&ref=11076) |
+| 4vCPU |    4G | 220G HDD | 5T/月 | 1Gbps | 1IPv4+3IPv6 | $48.25/年 | [点击购买](https://app.cloudcone.com.cn/vps/255/create?token=bday24-vps-4&ref=11076) |
 
 ### 美国SC2云服务器
 
@@ -169,10 +191,10 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 |    CPU | 内存 |      硬盘 |  流量 | 带宽  | IP地址      |      价格 |                           购买链接                           |
 | -----: | ---: | --------: | ----: | :---- | :---------- | --------: | :----------------------------------------------------------: |
-|  4vCPU |   8G |  220G SSD | 6T/月 | 1Gbps | 1IPv4+3IPv6 | $17.96/月 | [点击购买](https://app.cloudcone.com/compute/1443/create?token=bday24-sc2-1&ref=11076) |
-|  8vCPU |  16G |  410G SSD | 7T/月 | 1Gbps | 1IPv4+3IPv6 | $35.10/月 | [点击购买](https://app.cloudcone.com/compute/1444/create?token=bday24-sc2-2&ref=11076) |
-| 12vCPU |  32G |  640G SSD | 8T/月 | 1Gbps | 1IPv4+3IPv6 |  $69.5/月 | [点击购买](https://app.cloudcone.com/compute/1445/create?token=bday24-sc2-3&ref=11076) |
-| 16vCPU |  64G | 1500G SSD | 9T/月 | 1Gbps | 1IPv4+3IPv6 | $138.9/月 | [点击购买](https://app.cloudcone.com/compute/1446/create?token=bday24-sc2-4&ref=11076) |
+|  4vCPU |   8G |  220G SSD | 6T/月 | 1Gbps | 1IPv4+3IPv6 | $17.96/月 | [点击购买](https://app.cloudcone.com.cn/compute/1443/create?token=bday24-sc2-1&ref=11076) |
+|  8vCPU |  16G |  410G SSD | 7T/月 | 1Gbps | 1IPv4+3IPv6 | $35.10/月 | [点击购买](https://app.cloudcone.com.cn/compute/1444/create?token=bday24-sc2-2&ref=11076) |
+| 12vCPU |  32G |  640G SSD | 8T/月 | 1Gbps | 1IPv4+3IPv6 |  $69.5/月 | [点击购买](https://app.cloudcone.com.cn/compute/1445/create?token=bday24-sc2-3&ref=11076) |
+| 16vCPU |  64G | 1500G SSD | 9T/月 | 1Gbps | 1IPv4+3IPv6 | $138.9/月 | [点击购买](https://app.cloudcone.com.cn/compute/1446/create?token=bday24-sc2-4&ref=11076) |
 
 ## 年中特惠VPS
 
@@ -240,7 +262,7 @@ CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)�
 
 | CPU  | 内存 | 硬盘  | 流量/带宽/月 | 价格(续费不变) | 购买链接                                                     |
 | ---- | ---- | ----- | ------------ | -------------- | ------------------------------------------------------------ |
-| 2核  | 2G   | 40GB  | 3T @1Gbps    | 25.00美元/年   | [点击购买](https://app.cloudcone.com/vps/164/create?token=bf-2022-2-q&ref=11076) |
+| 2核  | 2G   | 40GB  | 3T @1Gbps    | 25.00美元/年   | [点击购买](https://app.cloudcone.com.cn/vps/164/create?token=bf-2022-2-q&ref=11076) |
 | 4核  | 4G   | 160GB | 8T @1Gbps    | 50.44美元/年   | [点击购买](https://app.cloudcone.com.cn/vps/114/create?token=bf-2022-4&ref=11076) |
 | 4核  | 8G   | 320GB | 8T @1Gbps    | 97.21美元/年   | [点击购买](https://app.cloudcone.com.cn/vps/115/create?token=bf-2022-5&ref=11076) |
 
