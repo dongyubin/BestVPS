@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# BandwagonHost 搬瓦工 美国/日本/香港/CN2GIA/高速稳定 VPS 最新优惠活动(2024年12月)
+# BandwagonHost 搬瓦工 美国/日本/香港/CN2GIA/高速稳定 VPS 最新优惠活动(2025年3月)
 
 ## BandwagonHost 简介
 
@@ -33,6 +33,38 @@ sidebar_position: 3
 已过期：~~BWHCCNCXVV（优惠力度 6.78%）~~
 
 下方表格中均为原价，不要忘记使用优惠码。年付优惠可与优惠码叠加。
+
+## BandwagonHost 2025年3月优惠
+
+### NODESEEK-BIGGERBOX-PRO
+
+NODESEEK-BIGGERBOX-PRO，该机器位于美国西部洛杉矶DC1，使用中国电信CN2 GIA，移动CMIN2高级优化线路，联通走CMIN2。该机器没有此前“尽力而为”的表述，其网络优先级更高，可以保证线路。年付 39 美元（优惠后$36.36），是当前最具竞争力的优化线路机型。
+
+该机器配置如下：
+SSD: 20 GB RAID-10
+RAM: 1024 MB
+CPU: 1x AMD
+Transfer: 1000 GB/mo
+Link speed: 2.5 Gigabit
+
+查看该机器：[点击购买](https://bwh88.net/aff.php?aff=75023&pid=156) （售罄）
+
+更新：联通CMIN2回程变更为CN2GIA（3.8）
+
+### NODESEEK-BIGGERBOX-PRO 第二弹
+
+新机器名为NODESEEK-MEGABOX-PRO，这是瓦工在近期推出的第二个DC1特价机型，硬件和流量是上一款的双倍配置。年付49 美元（优惠后$45.68）。购买BIGGERBOX-PRO的用户可以在后台补差价自行升级。
+
+DC1 是美西洛杉矶优化线路机房，中国电信双程 CN2 GIA，移动回程 CMIN2，联通以 CN2 或 CMIN2 回程。到中国大部平峰延迟在140-160ms左右。
+
+该机器配置如下：
+SSD: 40 GB RAID-10
+RAM: 2048 MB
+CPU: 2x AMD
+Transfer: 2000 GB/mo
+Link speed: 2.5 Gigabit
+
+查看该机器：[点击购买](https://bwh88.net/aff.php?aff=75023&&pid=157) （售罄）
 
 ## BandwagonHost 12月优惠
 
