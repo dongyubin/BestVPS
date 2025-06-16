@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className={clsx("button button--secondary button--lg", styles.buttonSpacing)}
             to="/docs/intro">
-            2024年VPS推荐 - 自用、稳定、靠谱、便宜、高性价比 👉🏻
+            2025年VPS推荐 - 自用、稳定、靠谱、便宜、高性价比 👉🏻
           </Link>
           <Link
             className={clsx("button button--secondary button--lg", styles.buttonSpacing)}

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# BandwagonHost 搬瓦工 美国/日本/香港/CN2GIA/高速稳定 VPS 最新优惠活动(2025年3月)
+# BandwagonHost 搬瓦工 美国/日本/香港/CN2GIA/高速稳定 VPS 最新优惠活动(2025年6月)
 
 ## BandwagonHost 简介
 
@@ -33,6 +33,20 @@ sidebar_position: 3
 已过期：~~BWHCCNCXVV（优惠力度 6.78%）~~
 
 下方表格中均为原价，不要忘记使用优惠码。年付优惠可与优惠码叠加。
+
+## BandwagonHost 2025年6月优惠
+
+搬瓦工推出The Tokyo Plan VPS，日本东京 DC39v2 机房直连线路新机型，混合多个上有服务商。
+
+配置为1核AMD CPU、1GB内存、20GB RAID-10 SSD硬盘以及每月500GB的流量，年费为79美元。
+
+根据测试，其CPU 频率约为2.45GHz。在Sysbench单核 3679 的高分，对于一台单核VPS来说十分亮眼。硬盘性能，fio测试显示其4K随机读写IOPS接近 70k，而1M块大小的顺序读写速度双双突破 9 GB/s。
+
+该机器平峰时连接中国大陆的速度表现不错，平峰苏州电信5G的上传和下载速度分别达到了 2.2 Gbps 和 1.1 Gbps。去程联通AS4837，电信CN2，移动AS9808；回程线路主要是通过中国移动的CMI，部分情况下可能绕行电信163网络。注意高峰时间段尚未测试，其表现可能相差很大。
+
+测试显示其解锁日本地区的 Netflix、YouTube Premium、Amazon Prime Video 等主流流媒体，不解锁Disney+、spotify。不过需要注意的是每个IP的实际情况可能有所不同。
+
+查看该机型：[点击购买](http://bwh81.net/aff.php?aff=75023&pid=162)
 
 ## BandwagonHost 2025年3月优惠
 
