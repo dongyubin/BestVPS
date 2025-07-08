@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# BandwagonHost 搬瓦工 美国/日本/香港/CN2GIA/高速稳定 VPS 最新优惠活动(2025年6月)
+# BandwagonHost 搬瓦工 美国/日本/香港/CN2GIA/高速稳定 VPS 最新优惠活动(2025年7月)
 
 ## BandwagonHost 简介
 
@@ -48,7 +48,7 @@ sidebar_position: 3
 
 查看该机型：[点击购买](http://bwh81.net/aff.php?aff=75023&pid=162)
 
-## BandwagonHost 2025年3月优惠
+## BandwagonHost 2025年7月优惠
 
 ### NODESEEK-BIGGERBOX-PRO
 
@@ -61,7 +61,7 @@ CPU: 1x AMD
 Transfer: 1000 GB/mo
 Link speed: 2.5 Gigabit
 
-查看该机器：[点击购买](https://bwh88.net/aff.php?aff=75023&pid=156) （售罄）
+查看该机器：[点击购买](https://bwh88.net/aff.php?aff=75023&pid=156) （已补货）
 
 更新：联通CMIN2回程变更为CN2GIA（3.8）
 
