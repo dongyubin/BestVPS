@@ -5,7 +5,7 @@ description: RackNerd是一家促销活动比较多的美国商家，提供国�
 image: https://b2.wwkejishe.top/WP-CDN-02/2022/202211171048611.webp
 ---
 
-# RackNerd 高性价比便宜 VPS 最新优惠活动(2024年12月)
+# RackNerd 高性价比便宜 VPS 最新优惠活动(2025年11月)
 
 ## RackNerd简介
 
@@ -34,6 +34,27 @@ RackNerd 有个长期优惠码是`15OFFDEDI`，这个优惠码适用于所有Rac
 | [RN-2022](https://my.racknerd.com/aff.php?aff=6200&gid=9)    | 7.5折    | 常规虚拟主机和VPS方案 |
 
 ## RackNerd VPS最新优惠
+
+### 2025年双11促销活动
+
+- 可选机房: 洛杉矶 DC-02, 圣何塞, 芝加哥, 纽约, 达拉斯, 西雅图, 阿什本, 多伦多, 法国斯特拉斯堡
+- 1 个 IPv4 地址
+
+| CPU   | 内存 | SSD  | 月流量 | 价格      | 购买链接                                                     |
+| ----- | ---- | ---- | ------ | --------- | ------------------------------------------------------------ |
+| 1核心 | 1G   | 20G  | 3TB    | $10.76/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=917) |
+| 2核心 | 2G   | 35G  | 5TB    | $17.66/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=918) |
+| 3核心 | 3G   | 55G  | 6TB    | $26.99/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=919) |
+| 4核心 | 4G   | 80G  | 8TB    | $39.99/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=920) |
+
+### RackNerd 2025年5月促销活动
+
+| CPU   | 内存 | SSD  | 月流量 | 价格      | 购买链接                                                     |
+| ----- | ---- | ---- | ------ | --------- | ------------------------------------------------------------ |
+| 1核心 | 1G   | 20G  | 2TB    | $10.96/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=912) |
+| 2核心 | 2G   | 30G  | 4TB    | $17.66/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=913) |
+| 3核心 | 3.5G | 60G  | 5TB    | $29.89/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=914) |
+| 4核心 | 5G   | 100G | 10TB   | $54.99/年 | [点击购买](https://my.racknerd.com/aff.php?aff=6200&pid=915) |
 
 ### RackNerd 2025 新年促销活动
 
