@@ -1,6 +1,6 @@
 ---
 slug: banwagong-buy
-title: 2024年搬瓦工购买教程：注册账号、支付宝/微信付款教程
+title: 2026年搬瓦工购买教程：注册账号、支付宝/微信付款教程
 authors: [dongyubin]
 tags: [VPS, 主机, 服务器, 搬瓦工, 注册]
 ---

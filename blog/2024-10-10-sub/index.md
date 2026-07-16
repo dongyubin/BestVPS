@@ -1,6 +1,6 @@
 ---
 slug: subconverter-subweb
-title: 2024年自行搭建Clash订阅转换平台，自建Sub-Web前端和SubConverter后端
+title: 2026年自行搭建Clash订阅转换平台，自建Sub-Web前端和SubConverter后端
 authors: [dongyubin]
 tags: [VPS, 主机, 服务器, SubConverter, Sub-Web, Clash]
 ---
