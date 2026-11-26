@@ -1,15 +1,15 @@
 ---
 sidebar_position: 1
-title: RackNerd 高性价比便宜 VPS 最新优惠活动(2024年12月)
-description: RackNerd是一家促销活动比较多的美国商家，提供国外VPS、虚拟主机和独立服务器，一般主打价格优势，为用户提供便宜套餐，最低年付不到10美元。由于 RackNerd 促销比较杂，本文就专门为大家整理汇总了近期有效RackNerd优惠码以及优惠促销活动信息，方便大家选择。
+title: "RackNerd 2026 黑五 VPS 套餐与优惠（$15.98/年起）"
+description: "RackNerd 2026 黑五 KVM VPS 年付 $15.98 起，整理 5 档配置、月流量、推广购买入口和历年促销。"
 image: https://b2.wwkejishe.top/WP-CDN-02/2022/202211171048611.webp
 ---
 
-# RackNerd 高性价比便宜 VPS 最新优惠活动(2025年11月)
+# RackNerd 2026 黑五 VPS 套餐与优惠（$15.98/年起）
 
 ## RackNerd简介
 
-[RackNerd](https://www.wangdu.site/?s=racknerd) 是一家促销活动比较多的美国商家，提供国外[VPS](https://www.wangdu.site/tag/vps)、虚拟主机和独立服务器，一般主打价格优势，为用户提供便宜套餐，最低年付不到10美元。由于 RackNerd 促销比较杂，本文就专门为大家整理汇总了近期有效RackNerd优惠码以及优惠促销活动信息，方便大家选择。
+[RackNerd](https://www.wangdu.site/?s=racknerd) 是一家促销活动比较多的美国商家，提供国外[VPS](https://www.wangdu.site/tag/vps)、虚拟主机和独立服务器，一般主打价格优势，为用户提供便宜套餐。由于 RackNerd 促销比较杂，本文就专门为大家整理汇总了当前活动与历年促销记录，方便大家选择。
 
 ![RackNerd](https://b2.wwkejishe.top/WP-CDN-02/2022/202211171048611.webp)
 
@@ -21,7 +21,25 @@ image: https://b2.wwkejishe.top/WP-CDN-02/2022/202211171048611.webp
 
 官方网站：[https://www.racknerd.com](https://my.racknerd.com/aff.php?aff=6200)
 
-## Racknerd优惠码
+## RackNerd 2026 黑五 VPS 套餐
+
+RackNerd 官方黑五页面列出 5 档 KVM VPS，均为年付，配 1 个 IPv4 和 1 Gbps 端口，使用 ctrl 控制面板。
+
+| vCPU | 内存 | SSD | 每月流量 | 活动价 |
+| --- | --- | --- | --- | --- |
+| 1 核 | 1 GB | 20 GB | 3 TB | $15.98/年 |
+| 2 核 | 2.5 GB | 30 GB | 6 TB | $27.98/年 |
+| 4 核 | 4 GB | 60 GB | 10 TB | $47.98/年 |
+| 6 核 | 6 GB | 85 GB | 15 TB | $74.98/年 |
+| 6 核 | 8 GB | 140 GB | 20 TB | $94.98/年 |
+
+[查看 RackNerd 2026 黑五套餐（推广链接）](https://www.racknerd.com/BlackFriday/?aff=6200)
+
+下单前核对所选机房是否有货，以及首年和续费金额。表中为活动页标价，库存与结账价格以商城显示为准。
+
+## 历史优惠码
+
+以下为过往优惠码，适用商品和有效期以结账页为准。
 
 RackNerd 有个长期优惠码是`15OFFDEDI`，这个优惠码适用于所有RackNerd独立服务器（购买VPS可以看上文列出的促销活动）使用后可以节省15%费用。
 
@@ -33,7 +51,7 @@ RackNerd 有个长期优惠码是`15OFFDEDI`，这个优惠码适用于所有Rac
 | [HYBRID10OFF](https://my.racknerd.com/aff.php?aff=6200&gid=2) | 9折      | 混合独立服务器产品    |
 | [RN-2022](https://my.racknerd.com/aff.php?aff=6200&gid=9)    | 7.5折    | 常规虚拟主机和VPS方案 |
 
-## RackNerd VPS最新优惠
+## RackNerd 历年 VPS 活动
 
 ### 2025年双11促销活动
 

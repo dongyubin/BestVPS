@@ -1,35 +1,46 @@
 ---
-title: CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2025年2月)
+title: "CloudCone VPS 套餐、价格与优惠（2026 年 11 月）"
 sidebar_position: 2
-description: CloudCone是一家提供VPS（虚拟专用服务器）服务的美国公司，成立于2017年，致力于为全球用户提供可扩展、灵活且具有性价比的云计算服务。CloudCone的VPS服务以其灵活的计费方式（按小时或按月付费）而闻名，同时还支持用户自定义服务器配置和资源。
+description: "CloudCone 美国 SSD VPS 官网标价 $28/年起，整理 6 档套餐、黑五预热码有效期、计费和退款规则。"
 image: https://b2.wwkejishe.top/WP-CDN-02/2024/202406171710947.webp
 ---
 
-# CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2025年2月)
+# CloudCone VPS 套餐、价格与优惠（2026 年 11 月）
 
 ## CloudCone 简介
 
-CloudCone 成立于 2017 年，美国注册公司 (怀俄明州 2017-000753144)。主营美国洛杉矶 Mul­ta­Com 机房的云服务器 / [VPS](https://www.wangdu.site/tag/vps)、独立服务器、电子邮件托管等业务。[VPS](https://www.wangdu.site/tag/vps) 基于 KVM 虚拟，采用自行研发的控制面板。其所在的 Mul­ta­Com 机房采用动态路由网络，会根据不同网络状态调整线路，很多地区的电信网络会走 CN2 线路，因此延迟和稳定性在非高峰时段都较为优秀。同时该主机商提供了按秒计费、随删随用、定期备份服务。支持**支付宝**、Pay­pal、信用卡等方式付款。
+CloudCone 提供美国 KVM VPS、SC2 云服务器、独立服务器和邮件托管。常规 SSD VPS 的配置及计费见下文。
 
 ![CloudCone VPS 优惠活动](https://b2.wwkejishe.top/WP-CDN-02/2024/202406171710947.webp)
 
-## CloudCone 官网
+## 2026 年 11 月套餐与优惠
 
-官方网站：[https://cloudcone.com](https://cloudcone.com)（被 DNS 污染，需梯子或解决污染问题）
+官网公告中的黑五预热码 `PREBF26` 已于 11 月 20 日到期，当时的 $12.24/年是 SSD 缓存型存储 VPS 的预热价，$14.48/年是纯 SSD VPS 的预热价。黑五专题入口仍显示 2025 年活动已结束；2026 正式套餐信息以官方页面更新为准。 [官方公告](https://news.cloudcone.com/) · [黑五专题](https://app.cloudcone.com/events/blackfriday)
 
-官方镜像：[https://cloudcone.com.cn](https://cloudcone.com.cn)（官网无法访问的在域名后面加个`.cn` 即可）
+[注册或登录 CloudCone](https://app.cloudcone.com/?ref=11076)
 
-## CloudCone 最新优惠促销活动
+### 常规 SSD VPS 官网标价
 
-这个页面会不定期更新 CloudCone 最新优惠促销活动和直达购买购买链接，欢迎小伙伴们持续关注并分享给需要的朋友。
+| 套餐 | vCPU | 内存 | SSD | 月流量 | 年付 |
+| --- | --- | --- | --- | --- | --- |
+| SSD VPS 1 | 2 核 | 1 GB | 30 GB | 4 TB | $28 |
+| SSD VPS 2 | 4 核 | 2 GB | 60 GB | 7 TB | $46 |
+| SSD VPS 3 | 6 核 | 3 GB | 90 GB | 8.5 TB | $69 |
+| SSD VPS 4 | 8 核 | 4 GB | 120 GB | 10 TB | $92 |
+| SSD VPS 5 | 12 核 | 6 GB | 240 GB | 16 TB | $174 |
+| SSD VPS 6 | 14 核 | 8 GB | 400 GB | 20 TB | $322 |
 
-以下是 CloudCone 最新的 [VPS](https://www.wangdu.site/tag/vps) 优惠促销活动套餐，限时限量，随时缺货，需要的小伙伴要抓住机会了。
+以上为美国机房 KVM 套餐，官网列出 1 Gbps 端口、1 个 IPv4 和 3 个 IPv6。入门档折合约 $2.33/月，部署时一次扣 $28。机房、库存和续费金额以订单页为准。 [官方 VPS 定价](https://cloudcone.com/vps/)
 
-> TIPS: 
->
-> 购买需先[注册账号](https://app.cloudcone.com.cn/signup?ref=11076)预先充值。充值支持**支付宝**、Pay­pal、信用卡等支付方式。例如需要购买 20 美元月付主机，可以预先充值 20 美元。既可快速抢购活动主机。
->
-> 如果不着急购买，也可以先[注册账号](https://app.cloudcone.com.cn/signup?ref=11076)，下次促销活动时会有邮件通知。
+### 计费、退款与备份
+
+- VPS 按订单所选周期预扣全款。需要按小时计费时，查看独立的 SC2 云服务器产品。
+- VPS 和促销套餐付款后通常不退，也不能换成其他套餐。部署后 7 天内若确认是商家的技术问题，可能退为账户余额。遇到此类问题先开工单并保留实例。 [官方计费与退款规则](https://help.cloudcone.com/en-us/article/how-billing-works-for-promotional-plans-and-virtual-private-servers-19bj5lr/)
+- 下单前核对套餐是否含备份、快照及相应费用。面向中国大陆用户时，按自己的运营商实测目标机房的晚高峰表现。
+
+## 历史活动
+
+以下为历次活动记录。历史价格、库存与优惠码以当期页面和订单为准。
 
 ## CloudCone 2025 年大减价
 
