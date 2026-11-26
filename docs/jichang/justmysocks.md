@@ -8,11 +8,11 @@ description: Just My Socks（JMS）是搬瓦工推出的机场服务，专为那
 
 搬瓦工机场就是Just My Socks，是搬瓦工(BandwagonHost)在2018年推出的服务。
 
-目前搬瓦工机场提供洛杉矶CN2 GIA、日本CN2 GIA、香港CN2 GIA、香港IPLC、英国伦敦联通VIP多个选择，支持酸酸、V2等多种协议，支持订阅，IP被封自动更换，支持按月付款，支持支付宝支付。
+目前搬瓦工机场提供洛杉矶、日本东京、香港、英国伦敦等多个机房，线路覆盖 CN2 GIA、CMI 等，支持 Shadowsocks、V2Ray 等协议，支持订阅，IP 被封后自动更换，支持按月付款，支持支付宝支付。
 
 比较适合不想自己搭建 V2Ray 节点服务器的网友使用，使用高速 CN2 及 CN2 GIA 线路，IP 被墙后会自动切换，非常稳定，是除了自己搭建 V2Ray 节点服务器科学上网的良好替代方案。目前支持 Shadowsocks 及 V2Ray 协议。
 
-Just My Socks最大的优势是：`保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户`。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
+Just My Socks 的一大优势是：IP 被墙后会自动更换新的可用 IP，用户继续使用域名配置即可，不需要反复改服务器地址。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
 
 除了Just My Socks，还可以考虑[已经建成的机场](https://help.wwkejishe.top/wang-shang-xue-ke#fu-fei-ji-chang)
 
@@ -20,29 +20,32 @@ Just My Socks最大的优势是：`保证IP不被墙，如果IP被墙，会自�
 
 ## Just My Socks介绍
 
-- **Just My Socks靠谱吗**？不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近2年了（2018年10月推出的）。
+- **Just My Socks靠谱吗**？不同于其他机场，Just My Socks是搬瓦工官方推出的，从2018年10月推出至今已运营8年。
 - **Just My Socks怎么样**？线路优质，包括最快的搬瓦工CN2 GIA线路。
 - **哪些人适合用Just My Socks**？不想自己搭建ss/ssr或v2ray翻墙帐号，但又对速度有较高的要求，Just My Socks可以非常方便的达到这些需求。
-- **Just My Socks缺点**：无法看Netflix。
-- **支持的协议：TCP或UDP？** Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使用YouTube等大多数流媒体服务。从Just My Socks 500开始的所有套餐均支持TCP和UDP协议（请参阅下面的注释）。语音协议（如WhatsApp和某些VOIP实现）可能需要UDP协议。如果您的套餐是Just My Socks 100，并且您想使用UDP协议，那么您将需要升级到Just My Socks 500套餐。
+- **Just My Socks缺点**：价格按流量和地区差异较大，香港、东京套餐不便宜；流媒体解锁不是它的主打能力，Netflix 等能否观看取决于节点和平台策略。
+- **支持的协议：TCP还是UDP？** 当前套餐支持 Shadowsocks 和 V2Ray。官方知识库说明 V2Ray 目前不支持 UDP；如果你需要 UDP（部分语音、游戏场景），下单前先确认所选 Shadowsocks 套餐是否支持。
 
 ## Just My Socks 支持哪些支付方式
 
-Just My Socks 官网支持 `支付宝`、Paypal 及 银联卡付款，7天内不满意随时退款。
+Just My Socks 官网支持 `支付宝`、`PayPal` 及银联卡付款。退款不是无条件退款，需要同时满足官网条款（注册 7 天内、月流量使用低于 10%、账户状态正常等），详见下方常见问题。
 
 ## Just My Socks 官网
 
-搬瓦工机场 Just My Socks **官网地址**是：[https://justmysocks.net/](https://justmysocks.net/members/aff.php?aff=31458) （国内无法访问）
+搬瓦工机场 Just My Socks **官网地址**是：[https://justmysocks.net/](https://justmysocks.net/members/aff.php?aff=31458)（部分网络可能无法直接访问）
 
-由于某些特殊原因，会不定时的更换官网的镜像地址，方便不能访问的网友访问 Just My Socks 官网，以下是所有的官网镜像列表，如以上官网地址不能访问，可用下面的官网备用网址访问。
+由于某些特殊原因，官网会不定期更换镜像地址。以下是目前可用的入口，如果某个地址打不开，换其他镜像即可，账号和套餐数据互通。
 
-- 官网备用1：[https://justmysocks1.net/](https://justmysocks1.net/members/aff.php?aff=31458)（国内无法访问）
-- 官网备用2：[https://justmysocks2.net/](https://justmysocks2.net/members/aff.php?aff=31458)（国内无法访问）
-- 官网备用3：[https://justmysocks6.net/](https://justmysocks6.net/members/aff.php?aff=31458)（国内无法访问）
-- 官网备用4：[https://justmysocks5.net/](https://justmysocks5.net/members/aff.php?aff=31458)（国内无法访问）
-- 官网备用5：[https://justmysocks6.net/](https://justmysocks6.net/members/aff.php?aff=31458)
+| 入口 | 地址 |
+| --- | --- |
+| 官网 | [https://justmysocks.net/](https://justmysocks.net/members/aff.php?aff=31458) |
+| 镜像1 | [https://justmysocks1.net/](https://justmysocks1.net/members/aff.php?aff=31458) |
+| 镜像2 | [https://justmysocks2.net/](https://justmysocks2.net/members/aff.php?aff=31458) |
+| 镜像3 | [https://justmysocks3.net/](https://justmysocks3.net/members/aff.php?aff=31458) |
+| 镜像4 | [https://justmysocks5.net/](https://justmysocks5.net/members/aff.php?aff=31458) |
+| 镜像5 | [https://justmysocks6.net/](https://justmysocks6.net/members/aff.php?aff=31458) |
 
-其中官网和部分镜像站在国内是无法直接访问的，**6个网站的数据全部互通**，所以我们只需要直接访问镜像站5就行了，以后本站的所有搬瓦工机场官网都以镜像站5表示（最稳定），方便大家在国内直接访问。
+`justmysocks3.net` 是官网镜像入口，不是“Just My Socks 第 3 代套餐”。官网和 5 个镜像共 6 个入口，**账号和套餐数据全部互通**。本站购买链接统一使用镜像5（justmysocks6.net），其他入口作为备用。
 
 ### 官网界面预览
 
@@ -50,35 +53,76 @@ Just My Socks 官网支持 `支付宝`、Paypal 及 银联卡付款，7天内不
 
 ## Just My Socks 优惠码
 
-Just My Socks Promo code 优惠码：`JMS9272283`
+Just My Socks Promo Code（搬瓦工机场优惠码）：`JMS9272283`
 
-使用此**搬瓦工机场优惠码**可享受 5.2% **永久优惠**，续费也可使用，可在结算订单页面输入优惠码获得优惠，参考本文优惠码购买结算订单章节。
+| 项目 | 说明 |
+| --- | --- |
+| 优惠码 | `JMS9272283` |
+| 折扣 | 5.2% 循环出账折扣（Recurring） |
+| 适用 | 新购可用；续费按循环出账规则继续抵扣 |
+| 叠加 | 可与季付、半年付、年付折扣叠加 |
+| 输入位置 | 购物车「Apply Promo Code」→「檢驗代碼 / Validate Code」 |
+
+结算页出现 `5.2% 循環出帳 折扣` 才算生效。以 LA 1000 年付为例：$98.88 → $93.74；LA 500 月付 $5.88 → $5.57，年付 $58.88 → $55.82。最终金额以结算页为准。
+
+### 优惠码怎么用
+
+1. 在下方套餐列表选择套餐，配置计费周期后加入购物车。
+2. 打开购物车，在「Apply Promo Code」输入 `JMS9272283`。
+3. 点击「檢驗代碼 / Validate Code」，看到 `Promotion Code Accepted`。
+4. 确认总价出现 5.2% 折扣后，再点 Checkout。
+
+[使用优惠码购买 LA 500](https://justmysocks6.net/members/aff.php?aff=31458&pid=2&language=chinese)
+
+### 优惠码无效怎么排查
+
+- 直接复制，不要手打；注意前后空格和大小写。
+- 购物车里必须先有套餐，空购物车无法验证。
+- 一个订单通常只接受一个优惠码，先移除旧码再试。
+- 换官网或镜像入口重试，账号和套餐数据互通。
+- 清缓存或换隐私窗口，排除旧会话。
+- 仍提示无效时以结算页为准，可能官方临时停用，不必死等。
+
+### 优惠码常见问题
+
+**续费还能用吗？** 这是循环出账折扣，续费账单继续按 5.2% 抵扣；若从账单移除或官方调整规则，则以账单为准。
+
+**年付还能叠加吗？** 能。先算年付周期价，再按订单金额减 5.2%。LA 1000 年付 $98.88 → $93.74。
+
+**新老用户都能用吗？** 新购可直接在结算页验证；已有账号续费时也可在账单结算页尝试输入，最终以页面验证结果为准。
+
+**为什么有人叫“永久优惠”？** 因为它按循环出账持续抵扣，但更准确的说法是“循环出账折扣”，不是官方承诺永不下线。
 
 ## Just My Socks 懒人版
 
-1. [点击购买 洛杉矶CN2 GIA（高性价比👍）](https://justmysocks6.net/members/aff.php?aff=31458&pid=2&language=chinese)（享受 5.2% 永久优惠，优惠码：`JMS9272283`）
+1. [点击购买 洛杉矶CN2 GIA（高性价比👍）](https://justmysocks6.net/members/aff.php?aff=31458&pid=2&language=chinese)（结算输入优惠码 `JMS9272283` 再减 5.2%，详见上文优惠码章节）
 2. [Just My Socks](https://justmysocks6.net/members/aff.php?aff=31458&language=chinese) 自家的专用客户端：[Jamjams](https://justmysocks6.net/members/knowledgebase.php?action=displayarticle&id=5&language=chinese)（支持系统：Windows、MacOS、iOS）
 
 ## Just My Socks 节点套餐列表
 
-|                   数据中心 | 套餐名                  | 每月流量 | 月付价格 | 设备限制 | 购买链接                                                     |
-| -------------------------: | ----------------------- | -------- | -------- | -------- | ------------------------------------------------------------ |
-|                       东京 | Tokyo 100               | 100 GB   | $29.99   | 3        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=5&language=chinese) |
-|                       东京 | Tokyo 500               | 500 GB   | $135.99  | 5        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=6&language=chinese) |
-|                       东京 | Tokyo 1000              | 1 TB     | $239.00  | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=22&language=chinese) |
-|                伦敦联通VIP | London 500              | 500 GB   | $6.80    | 5        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=12&language=chinese) |
-|                伦敦联通VIP | London 1000             | 1 TB     | $11.29   | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=14&language=chinese) |
-| 洛杉矶CN2 GIA（高性价比👍） | LA 500                  | 500 GB   | $5.88    | 5        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=2&language=chinese) |
-|              洛杉矶CN2 GIA | LA 1000                 | 1 TB     | $9.88    | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=3&language=chinese) |
-|              洛杉矶CN2 GIA | LA 5000                 | 5 TB     | $48.99   | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=4&language=chinese) |
-|              洛杉矶CN2 GIA | LA 10000                | 10 TB    | $93.99   | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=23&language=chinese) |
-|                       香港 | HK CMI+NTT Plan 500     | 500 GB   | $8.99    | 5        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=13&language=chinese) |
-|                       香港 | HK CMI+NTT Plan 1000    | 1 TB     | $14.90   | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=15&language=chinese) |
-|                       香港 | Hong Kong 100           | 100 GB   | $34.99   | 3        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=7&language=chinese) |
-|                       香港 | Hong Kong 500           | 500 GB   | $149.99  | 5        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=8&language=chinese) |
-|                       香港 | Hong Kong 1000          | 1 TB     | $279.99  | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=11&language=chinese) |
-|                       香港 | HK 300 V2 EARLY ACCESS  | 300 GB   | $21.00   | 3        | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=18&language=chinese) |
-|                       香港 | HK 1000 V2 EARLY ACCESS | 1 TB     | $59.00   | 无限制   | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=21&language=chinese) |
+| 数据中心 | 套餐名 | 每月流量 | 月付价格 | 设备限制 | 购买链接 |
+| --- | --- | --- | --- | --- | --- |
+| 东京 | Tokyo 100 | 100 GB | $29.99 | 3 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=5&language=chinese) |
+| 东京 | Tokyo 500 | 500 GB | $135.99 | 5 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=6&language=chinese) |
+| 东京 | Tokyo 1000 | 1 TB | $239.00 | 无限制 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=22&language=chinese) |
+| 东京 | Tokyo 5000 | 5 TB | $1,135.00 | 无限制 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=26&language=chinese) |
+| 伦敦 | London 500 | 500 GB | $6.80 | 5 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=12&language=chinese) |
+| 伦敦 | London 1000 | 1 TB | $11.29 | 无限制 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=14&language=chinese) |
+| 伦敦 | London 5000 | 5 TB | $59.99 | 无限制 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=25&language=chinese) |
+| 洛杉矶 CN2 GIA | LA 500 | 500 GB | $5.88 | 5 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=2&language=chinese) |
+| 洛杉矶 CN2 GIA | LA 1000 | 1 TB | $9.88 | 无限制 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=3&language=chinese) |
+| 洛杉矶 CN2 GIA | LA 5000 | 5 TB | $48.99 | 无限制 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=4&language=chinese) |
+| 洛杉矶 CN2 GIA | LA 10000 | 10 TB | $93.99 | 无限制 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=23&language=chinese) |
+| 香港（仅移动） | HK China Mobile ONLY 500 | 500 GB | $8.99 | 5 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=13&language=chinese) |
+| 香港（仅移动） | HK China Mobile ONLY 1000 | 1 TB | $14.90 | 无限制 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=15&language=chinese) |
+| 香港（仅移动） | HK China Mobile ONLY 5000 | 5 TB | $59.99 | 无限制 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=24&language=chinese) |
+| 香港（三网） | Premium Hong Kong 100 | 100 GB | $34.99 | 3 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=7&language=chinese) |
+| 香港（三网） | Premium Hong Kong 500 | 500 GB | $149.99 | 5 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=8&language=chinese) |
+| 香港（三网） | Premium Hong Kong 1000 | 1 TB | $279.99 | 无限制 | [点击购买](https://justmysocks6.net/members/aff.php?aff=31458&pid=11&language=chinese) |
+
+> 香港 CMI 套餐只走中国移动 CMI 线路，不含电信、联通，电信/联通用户请选 Premium Hong Kong。HK 300 V2、HK 1000 V2 官网购物车当前未展示，暂不列入主表。价格以官网结算页为准。
+
+表中为月付原价，结算时输入优惠码 `JMS9272283` 可再减 5.2%，详见[优惠码章节](#just-my-socks-优惠码)。
 
 ### 速度评测
 
@@ -88,9 +132,11 @@ Just My Socks Promo code 优惠码：`JMS9272283`
 
 2. 如果是放在软路由上供很多人一起使用，那么推荐使用 `LA 1000 套餐`，不限制设备使用。
 
-3. 如果人在中国大陆，同时又比较在乎速度和延迟同时又对价格不敏感的话，可选择香港和东京线路，有着天然的距离优势，
+3. 如果人在中国大陆，同时又比较在乎速度和延迟，并且对价格不敏感，可以选择香港和东京线路，距离更近、延迟更低。
 
-详细的测评清参考本文 JustMySocks 评测章节。
+4. 香港套餐分两类：`HK China Mobile ONLY` 只适合中国移动用户，不含电信、联通；电信/联通用户请选 `Premium Hong Kong`，不要买错。
+
+详细的测评请参考本文 JustMySocks 评测章节。
 
 ### 设备限制
 
@@ -104,7 +150,7 @@ Just My Socks Promo code 优惠码：`JMS9272283`
 
 ![Just My Socks 年付套餐](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271020029.webp)
 
-在 `Choose Billing Cycle` 下拉菜单选择购买的时间：`$xx.xx USD Aunually`，表示按年付款。
+在 `Choose Billing Cycle` 下拉菜单选择购买的时间：`$xx.xx USD Annually`，表示按年付款。
 
 **推荐按年付款，综合费用下来按年付款仅需付10个月的费用，可省下2个月的费用，同时再叠加使用优惠码，十分划算。**
 
@@ -112,28 +158,26 @@ Just My Socks Promo code 优惠码：`JMS9272283`
 
 ### 购买时间说明
 
-| 说明          | 时长           | 相比按月付费折扣 | 叠加优惠码后优惠折扣 |
-| ------------- | -------------- | ---------------- | -------------------- |
-| Monthly       | 按月付款       | 无折扣           | 5.2%                 |
-| Quarterly     | 按季度付款     | 2.6%             | 7.8%                 |
-| Semi-Annually | 按半年付款     | 9.1%             | 14.3%                |
-| Annually      | 按年付款最划算 | 16.6%            | 21.8%                |
+| 说明          | 时长           | 相比按月付费折扣 |
+| ------------- | -------------- | ---------------- |
+| Monthly       | 按月付款       | 无折扣           |
+| Quarterly     | 按季度付款     | 2.6%             |
+| Semi-Annually | 按半年付款     | 9.1%             |
+| Annually      | 按年付款最划算 | 16.6%            |
 
-不同付款方式的折扣力度
+上表以 LA 1000 为例，不同套餐的周期折扣略有差异。优惠码 5.2% 会在结算页按订单金额再次抵扣，两者叠加后的实际折扣以结算页显示为准。
 
 ### 结算订单
 
-再结算订单页面，使用 justmysocks 优惠码：`JMS9272283`（使用此 justmysocks 优惠码可享受 5.2% **永久优惠**，续费也可使用）
-
-输入完优惠码后，点击 `Validate Code`
+在购物车页面找到「Apply Promo Code」，输入优惠码：`JMS9272283`，然后点击「檢驗代碼 / Validate Code」。
 
 ![Just My Socks 优惠码购买](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271020892.webp)
 
-如下图所示，这是已经使用了优惠码的，在价格那边显示了优惠了 $5.14 及折扣后的金额 $93.74。
+看到 `Promotion Code Accepted`，且总价出现 `5.2% 循環出帳 折扣` 即表示生效。下方截图以 LA 1000 年付为例：原价 $98.88，优惠 $5.14，折后 $93.74。
 
 ![搬瓦工机场优惠码](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271020792.webp)
 
-如果没什么问题，点击 `Checkout` 继续。
+确认金额后点击 `Checkout` 继续。
 
 ### 注册完成节点购买
 
@@ -167,7 +211,7 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 
 ![justmysocks可用节点列表](https://b2.wwkejishe.top/WP-CDN-02/2024/202406271021402.webp)
 
-点击这个 `Avtive` 的套餐进去就可以看到套餐的节点配置信息了，如下图所示，显示了该节点的所有信息。
+点击这个 `Active` 的套餐进去就可以看到套餐的节点配置信息了，如下图所示，显示了该节点的所有信息。
 
 这里就可以看到shadowsocks和v2ray详情了（ip以域名形式发放，页面上也能看到域名对应的ip，如果域名解析不顺利可直接填入域名对应的ip）
 
@@ -219,7 +263,7 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 
    只需要用支持二维码扫描的客户端设备扫描二维码即可自动配置节点。
 
-特别说明：后台节点信息找到选项 `DNS Link + QR` 选项，是使用 **IP 作为服务器地址**，不推荐使用。
+特别说明：后台会同时提供 `DNS Links + QR` 和 `IP Links + QR` 两种入口。前者使用域名作为服务器地址，推荐使用；后者使用 IP，不推荐。
 
 ### 订阅方式配置节点
 
@@ -229,7 +273,7 @@ Just My Socks 支持使用订阅方式来自动化添加节点配置信息，只
 
 点击 **Copy** 按钮即可复制 **justmysocks 订阅链接**。
 
-然后在相关支持订阅方式配置节点的客户端粘贴此条订阅链接即可完成配置，在 [客户端](\#客户端) 添加完后需要进行更新订阅链接操作。
+然后在相关支持订阅方式配置节点的客户端粘贴此条订阅链接即可完成配置，在 [客户端](#客户端) 添加完后需要进行更新订阅链接操作。
 
 ### 订阅链接高级配置技巧
 
@@ -299,7 +343,7 @@ Just My Socks 支持使用订阅方式来自动化添加节点配置信息，只
 
 ### 香港节点
 
-购买JustMySocks香港节点，一共有5台服务器可以使用，都使用相同的路由线路。
+香港套餐分两类：`HK China Mobile ONLY` 只走中国移动 CMI 线路，不含电信、联通；`Premium Hong Kong` 才是电信、联通、移动三网套餐。下面列的是 Premium Hong Kong 的线路概况，买 CMI 套餐不要按这套线路预期。
 
 ##### 入站
 
@@ -315,7 +359,7 @@ Just My Socks 支持使用订阅方式来自动化添加节点配置信息，只
 
 ### 东京节点
 
-购买JustMySocks东京节点，一共有5台服务器可以使用，都使用相同的路由线路。
+东京节点包含多台服务器，线路以官方当前说明为准。
 
 ##### 出站
 
@@ -331,7 +375,7 @@ Just My Socks 支持使用订阅方式来自动化添加节点配置信息，只
 
 ### 伦敦节点
 
-购买JustMySocks伦敦节点，一共有5台服务器可以使用，都使用相同的路由线路。
+伦敦节点包含多台服务器，线路以官方当前说明为准。
 
 ##### 出站
 
@@ -347,15 +391,15 @@ Just My Socks 支持使用订阅方式来自动化添加节点配置信息，只
 
 ### 洛杉矶节点
 
-购买JustMySocks洛杉矶节点，一共有6台服务器可以使用，路由线路略微不同。
+洛杉矶节点包含多台服务器，不同服务器线路略有差异。
 
 - 服务器cXs1 使用 CN2 GT 线路与中国联通和中国移动直连。
 - cXs2 使用 CN2 GT 线路与中国联通和中国移动直连。
 - cXs3 使用中国电信提供的 CN2 GIA 线路直连。
 - cXs4 使用搬瓦工位于日本大阪的 POP 线路链接。
-- cXs5 使用把瓦工位于荷兰的 POP 线路并集合使用 CN2 GIA 线路与中国电信、中国联通和中国移动回程直连。
+- cXs5 使用搬瓦工位于荷兰的 POP 线路并集合使用 CN2 GIA 线路与中国电信、中国联通和中国移动回程直连。
 
-上面列表中的 `X` 每个购买的套餐略有不同，主要看后面是 `s1-s5` 就代表哪各服务器。
+上面列表中的 `X` 每个购买的套餐略有不同，主要看后面是 `s1-s5` 就代表哪个服务器。
 
 洛杉矶节点中还有一个名为 `s801` 的 V2ray 线路，这个线路可提供更多的传输数据，但是不保证稳定性和速度，适合下载大文件的适合使用。
 
@@ -365,16 +409,16 @@ PS：**简单点就是最后一条线路没有前面5条线路好，所以使用
 
 ### 是否有优惠码
 
-在 Just My Socks 订单结算页面，使用 justmysocks 优惠码：`JMS9272283`，使用此**搬瓦工机场优惠码**可享受 5.2% **永久优惠**。
+有。结算页输入 `JMS9272283`，可享 5.2% 循环出账折扣，年付等周期折扣还能叠加，具体见上文[Just My Socks 优惠码](#just-my-socks-优惠码)章节。
 
 ### 是否支持退款
 
-目前提供7天无理由退款，即只要购买时间在7天之内就可以退款。
+不是 7 天无理由退款。官网 ToS 要求同时满足以下条件才能申请全额退款：账户注册 7 天内、当月流量使用低于 10%、账户状态正常、未发生过退款或支付争议等。退款会退回原支付方式，具体以官网 ToS 为准。
 
 ### 是否支持 UDP
 
-所有地区的 v2Ray 节点均不支持 UDP，所有地区的 Shadowsocks 除了 LA 100 外（目前已停售）均支持 UDP。
+官方知识库说明 V2Ray 目前不支持 UDP。Shadowsocks 的 UDP 支持情况会随套餐变化，下单前以官网套餐说明或工单回复为准。
 
 ## Just My Socks 怎么样
 
-搬瓦工官方机场 Just My Socks 官网目前一共有12种套餐可以选择，购买一个套餐即可以同时使用多台代理服务器，节点位置包含洛杉矶、日本、伦敦及香港，是除了自己搭建 V2Ray 节点服务器科学上网的良好替代方案，同时7天不满意还可以随时退款。
+搬瓦工官方机场 Just My Socks 官网目前一共有17种套餐可以选择，购买一个套餐即可以同时使用多台代理服务器，节点位置包含洛杉矶、日本、伦敦及香港，是除了自己搭建 V2Ray 节点服务器科学上网的良好替代方案，符合官网退款条件还可以申请退款。
