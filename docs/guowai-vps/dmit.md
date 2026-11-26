@@ -328,16 +328,16 @@ VPS 套餐信息：KVM 虚拟化，AMD EPYC 高性能处理器，SSD 高速固�
 
 测试 IP：174.136.205.2
 
-| 方案名称       | 内存  | CPU  | 硬盘 | 流量    | 带宽   | 价格       | 历史记录 |
-| :------------- | :---- | :--- | :--- | :------ | :----- | :--------- | :------- |
-| SJC.T1.WEE     | 0.5G  | 1核  | 10G  | 1T/月   | 10Gbps | $36.9/年   | [pid=152](https://www.dmit.io/aff.php?aff=7952&pid=152) |
-| SJC.T1.TINY    | 0.75G | 1核  | 10G  | 2T/月   | 10Gbps | $6.9/月    | [pid=145](https://www.dmit.io/aff.php?aff=7952&pid=145) |
-| SJC.T1.STARTER | 1.5G  | 1核  | 20G  | 4T/月   | 10Gbps | $12.9/月   | [pid=146](https://www.dmit.io/aff.php?aff=7952&pid=146) |
-| SJC.T1.MINI    | 2G    | 2核  | 40G  | 8T/月   | 10Gbps | $21.9/月   | [pid=147](https://www.dmit.io/aff.php?aff=7952&pid=147) |
-| SJC.T1.MICRO   | 4G    | 2核  | 80G  | 16T/月  | 10Gbps | $32.9/月   | [pid=148](https://www.dmit.io/aff.php?aff=7952&pid=148) |
-| SJC.T1.MEDIUM  | 4G    | 4核  | 120G | 32T/月  | 10Gbps | $49.9/月   | [pid=149](https://www.dmit.io/aff.php?aff=7952&pid=149) |
-| SJC.T1.LARGE   | 8G    | 4核  | 200G | 64T/月  | 10Gbps | $99.9/月   | [pid=150](https://www.dmit.io/aff.php?aff=7952&pid=150) |
-| SJC.T1.GIANT   | 16G   | 8核  | 400G | 128T/月 | 10Gbps | $199.99/月 | [pid=151](https://www.dmit.io/aff.php?aff=7952&pid=151) |
+| 方案名称       | 内存  | CPU  | 硬盘 | 流量    | 带宽   | 价格       |
+| :------------- | :---- | :--- | :--- | :------ | :----- | :--------- |
+| SJC.T1.WEE     | 0.5G  | 1核  | 10G  | 1T/月   | 10Gbps | $36.9/年   |
+| SJC.T1.TINY    | 0.75G | 1核  | 10G  | 2T/月   | 10Gbps | $6.9/月    |
+| SJC.T1.STARTER | 1.5G  | 1核  | 20G  | 4T/月   | 10Gbps | $12.9/月   |
+| SJC.T1.MINI    | 2G    | 2核  | 40G  | 8T/月   | 10Gbps | $21.9/月   |
+| SJC.T1.MICRO   | 4G    | 2核  | 80G  | 16T/月  | 10Gbps | $32.9/月   |
+| SJC.T1.MEDIUM  | 4G    | 4核  | 120G | 32T/月  | 10Gbps | $49.9/月   |
+| SJC.T1.LARGE   | 8G    | 4核  | 200G | 64T/月  | 10Gbps | $99.9/月   |
+| SJC.T1.GIANT   | 16G   | 8核  | 400G | 128T/月 | 10Gbps | $199.99/月 |
 
 ### 圣何塞 Tier 1 Unmetered VPS（历史套餐）
 
@@ -347,11 +347,11 @@ VPS 套餐信息：KVM 虚拟化，AMD EPYC 高性能处理器，SSD 高速固�
 
 测试 IP：174.136.205.2
 
-| 方案名称         | 内存 | CPU  | 硬盘 | 流量   | 带宽   | 价格       | 历史记录 |
-| :--------------- | :--- | :--- | :--- | :----- | :----- | :--------- | :------- |
-| SJC.T1.UNMETERED | 2G   | 1核  | 10G  | 无限制 | 自定义 | $14.9/年起 | [pid=152](https://www.dmit.io/aff.php?aff=7952&pid=152) |
+| 方案名称         | 内存 | CPU  | 硬盘 | 流量   | 带宽   | 价格       |
+| :--------------- | :--- | :--- | :--- | :----- | :----- | :--------- |
+| SJC.T1.UNMETERED | 2G   | 1核  | 10G  | 无限制 | 自定义 | $14.9/年起 |
 
-> 注：`SJC.T1.WEE` 与 `SJC.T1.UNMETERED` 在历史记录中共用 `pid=152`，老用户续费请以客户中心显示为准。
+> 注：`SJC.T1.WEE` 与 `SJC.T1.UNMETERED` 为两个独立历史套餐，老用户续费请以客户中心显示为准。
 
 ## DMIT 中国香港 VPS
 
