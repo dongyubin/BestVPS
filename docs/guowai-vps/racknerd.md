@@ -25,15 +25,15 @@ image: https://b2.wwkejishe.top/WP-CDN-02/2022/202211171048611.webp
 
 RackNerd 官方黑五页面列出 5 档 KVM VPS，均为年付，配 1 个 IPv4 和 1 Gbps 端口，使用 ctrl 控制面板。
 
-| vCPU | 内存 | SSD | 每月流量 | 活动价 |
-| --- | --- | --- | --- | --- |
-| 1 核 | 1 GB | 20 GB | 3 TB | $15.98/年 |
-| 2 核 | 2.5 GB | 30 GB | 6 TB | $27.98/年 |
-| 4 核 | 4 GB | 60 GB | 10 TB | $47.98/年 |
-| 6 核 | 6 GB | 85 GB | 15 TB | $74.98/年 |
-| 6 核 | 8 GB | 140 GB | 20 TB | $94.98/年 |
+| vCPU | 内存 | SSD | 每月流量 | 活动价 | 购买 |
+| --- | --- | --- | --- | --- | --- |
+| 1 核 | 1 GB | 20 GB | 3 TB | $15.98/年 | [购买](https://my.racknerd.com/aff.php?aff=6200&pid=968) |
+| 2 核 | 2.5 GB | 30 GB | 6 TB | $27.98/年 | [购买](https://my.racknerd.com/aff.php?aff=6200&pid=969) |
+| 4 核 | 4 GB | 60 GB | 10 TB | $47.98/年 | [购买](https://my.racknerd.com/aff.php?aff=6200&pid=970) |
+| 6 核 | 6 GB | 85 GB | 15 TB | $74.98/年 | [购买](https://my.racknerd.com/aff.php?aff=6200&pid=971) |
+| 6 核 | 8 GB | 140 GB | 20 TB | $94.98/年 | [购买](https://my.racknerd.com/aff.php?aff=6200&pid=972) |
 
-[查看 RackNerd 2026 黑五套餐（推广链接）](https://www.racknerd.com/BlackFriday/?aff=6200)
+[查看 RackNerd 2026 黑五套餐](https://www.racknerd.com/BlackFriday/?aff=6200)
 
 下单前核对所选机房是否有货，以及首年和续费金额。表中为活动页标价，库存与结账价格以商城显示为准。
 
