@@ -27,6 +27,7 @@ description: 文武VPS测评网站主要提供国内外VPS、云服务器和独�
 | [RackNerd](https://my.racknerd.com/aff.php?aff=6200)（[RackNerd 最新优惠 点此查看](guowai-vps/racknerd.md)） | $10.18/年 | 官方顶部有活动提示，可买到低价VPS。便宜、流量多、配置高、服务好、稳定。 | PayPal、支付宝、信用卡       |
 | [CloudCone](https://app.cloudcone.com/?ref=11076)（[CloudCone 最新优惠 点此查看](guowai-vps/cloudcone.md)） | 3$/月     | 便宜、大流量、大硬盘，自动备份                               | PayPal、支付宝、信用卡       |
 | [Vultr](https://www.vultr.com/?ref=8888141)（[Vultr 最新价格 点此查看](guowai-vps/vultr.md)） | $2.5/月   | 34 个机房、按小时计费，高性能 NVMe 型 $6/月起；新用户最高 $200 赠金。**$2.5 档为 IPv6-only** | 支付宝、银联、PayPal、信用卡 |
+| [HostDare](https://bill.hostdare.com/aff.php?aff=4863)（[套餐与优惠码](guowai-vps/hostdare.md)） | 普通线路活动价 $20.99/年 | 洛杉矶另有 CN2 GIA 系列，可选东京及保加利亚机房 | 支付宝、银联、PayPal、银行卡、加密货币 |
 | [AlphaVPS](https://alphavps.com/)（[AlphaVPS 最新优惠 点此查看](guowai-vps/alphavps.md)） | €15/年    | AMD Ryzen型号VPS性能好，性价比高。                           | 支付宝、PayPal、信用卡       |
 | 未使用过的VPS厂家👇                                           |           |                                                              |                              |
 | [DigitalOcean](https://www.digitalocean.com/)                | $4/月     | 21年上市企业，可靠，高效，注册送$200体验金。                 | 信用卡、PayPal               |
